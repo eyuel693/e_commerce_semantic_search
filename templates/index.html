@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customer Support Chatbot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <div class="chat-container">
+        <div class="chat-box" id="chat-box">
+            <div class="chat-message bot-message">
+                <p>Support Bot: Hello! How can I assist you today? (Type 'exit' to quit)</p>
+            </div>
+        </div>
+        <div class="input-container">
+            <input type="text" id="user-query" placeholder="Type your message here..." />
+            <button onclick="sendQuery()">Send</button>
+        </div>
+    </div>
+
+    <script>
+      
+        const chatBox = document.getElementById("chat-box");
+        const userQueryInput = document.getElementById("user-query");
+
+        function appendMessage(who, message) {
+            const messageDiv = document.createElement("div");
+            messageDiv.classList.add("chat-message");
+            messageDiv.classList.add(`${who}-message`);
+            messageDiv.innerHTML = `<p>${who === 'bot' ? 'Support Bot: ' : 'Customer: '} ${message}</p>`;
+            chatBox.appendChild(messageDiv);
+            chatBox.scrollTop = chatBox.scrollHeight; 
+        }
+
+        function sendQuery() {
+            const userQuery = userQueryInput.value.trim();
+            if (userQuery.toLowerCase() === "exit") {
+                appendMessage("bot", "Thank you! Have a great day! 😊");
+                userQueryInput.disabled = true;
+                return;
+            }
+            if (userQuery === "") return;
+
+           
+            appendMessage("user", userQuery);
+
+           
+            fetch("/ask", {
+                method: "POST",
+                body: new URLSearchParams({ 'user_query': userQuery }),
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded'
+                }
+            })
+            .then(response => response.json())
+            .then(data => {
+                appendMessage("bot", data.response);
+                if (data.end_conversation) {
+                    userQueryInput.disabled = true;
+                }
+            });
+
+            userQueryInput.value = ""; 
+        }
+    </script>
+
+</body>
+</html>

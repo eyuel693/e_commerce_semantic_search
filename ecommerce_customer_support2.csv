@@ -1,0 +1,1147 @@
+Product ID,Product Name,Category,Price (USD),Stock Status,Return Policy,Customer Support Info
+1,Product 1,Home & Kitchen,89.47,Available,30-day return,"For installation assistance, check our user guide."
+2,Product 2,Beauty,471.18,Available,30-day return,This item is eligible for free returns within 30 days.
+3,Product 3,Electronics,17.6,Out of Stock,No return,"For warranty details, contact our support team."
+4,Product 4,Toys,382.4,Out of Stock,No return,Shipping takes 5-7 business days.
+5,Product 5,Electronics,198.46,Out of Stock,Exchange only,"For installation assistance, check our user guide."
+6,Product 6,Toys,177.56,Available,Refund within 14 days,This item is eligible for free returns within 30 days.
+7,Product 7,Clothing,426.89,Available,30-day return,"For warranty details, contact our support team."
+8,Product 8,Sports,115.06,Available,No return,Shipping takes 5-7 business days.
+9,Product 9,Electronics,337.11,Out of Stock,Exchange only,"For warranty details, contact our support team."
+10,Product 10,Toys,415.54,Available,Exchange only,Shipping takes 5-7 business days.
+11,Product 11,Electronics,422.15,Out of Stock,Exchange only,"For warranty details, contact our support team."
+12,Product 12,Automotive,223.69,Out of Stock,Exchange only,This item is eligible for free returns within 30 days.
+13,Product 13,Electronics,441.03,Out of Stock,Refund within 14 days,This product is covered under our 1-year warranty.
+14,Product 14,Beauty,44.42,Out of Stock,Exchange only,This product is covered under our 1-year warranty.
+15,Product 15,Home & Kitchen,331.89,Out of Stock,30-day return,This product is covered under our 1-year warranty.
+16,Product 16,Automotive,372.82,Available,Refund within 14 days,"For warranty details, contact our support team."
+17,Product 17,Electronics,403.98,Available,30-day return,Shipping takes 5-7 business days.
+18,Product 18,Sports,358.69,Available,Exchange only,This item is eligible for free returns within 30 days.
+19,Product 19,Automotive,313.08,Out of Stock,No return,"For warranty details, contact our support team."
+20,Product 20,Electronics,474.46,Available,Exchange only,Shipping takes 5-7 business days.
+21,Product 21,Clothing,186.11,Out of Stock,Refund within 14 days,"For warranty details, contact our support team."
+22,Product 22,Sports,56.99,Available,No return,Shipping takes 5-7 business days.
+23,Product 23,Clothing,147.59,Available,30-day return,"For installation assistance, check our user guide."
+24,Product 24,Toys,379.91,Available,No return,This item is eligible for free returns within 30 days.
+25,Product 25,Electronics,242.35,Out of Stock,Refund within 14 days,Shipping takes 5-7 business days.
+26,Product 26,Electronics,80.84,Out of Stock,Exchange only,This item is eligible for free returns within 30 days.
+27,Product 27,Sports,234.3,Available,30-day return,This product is covered under our 1-year warranty.
+28,Product 28,Home & Kitchen,451.94,Available,No return,This product is covered under our 1-year warranty.
+29,Product 29,Toys,440.65,Available,30-day return,Shipping takes 5-7 business days.
+30,Product 30,Home & Kitchen,141.82,Available,Refund within 14 days,This product is covered under our 1-year warranty.
+31,Product 31,Books,38.59,Out of Stock,Exchange only,Shipping takes 5-7 business days.
+32,Product 32,Home & Kitchen,111.01,Available,No return,This item is eligible for free returns within 30 days.
+33,Product 33,Sports,99.37,Out of Stock,No return,This item is eligible for free returns within 30 days.
+34,Product 34,Electronics,416.95,Out of Stock,Refund within 14 days,This item is eligible for free returns within 30 days.
+35,Product 35,Beauty,69.14,Available,30-day return,"For installation assistance, check our user guide."
+36,Product 36,Electronics,93.41,Out of Stock,30-day return,"For warranty details, contact our support team."
+37,Product 37,Clothing,211.98,Out of Stock,30-day return,This item is eligible for free returns within 30 days.
+38,Product 38,Home & Kitchen,12.96,Available,Refund within 14 days,This product is covered under our 1-year warranty.
+39,Product 39,Sports,62.42,Out of Stock,Refund within 14 days,"For installation assistance, check our user guide."
+40,Product 40,Beauty,201.85,Out of Stock,30-day return,"For installation assistance, check our user guide."
+41,Product 41,Clothing,486.62,Out of Stock,Refund within 14 days,Shipping takes 5-7 business days.
+42,Product 42,Beauty,110.07,Available,30-day return,Shipping takes 5-7 business days.
+43,Product 43,Clothing,132.03,Out of Stock,Refund within 14 days,"For installation assistance, check our user guide."
+44,Product 44,Beauty,421.82,Available,30-day return,This product is covered under our 1-year warranty.
+45,Product 45,Home & Kitchen,21.01,Available,No return,This product is covered under our 1-year warranty.
+46,Product 46,Toys,177.43,Available,No return,"For warranty details, contact our support team."
+47,Product 47,Sports,272.93,Out of Stock,Exchange only,Shipping takes 5-7 business days.
+48,Product 48,Home & Kitchen,39.96,Out of Stock,Refund within 14 days,"For installation assistance, check our user guide."
+49,Product 49,Home & Kitchen,216.99,Available,No return,Shipping takes 5-7 business days.
+50,Product 50,Automotive,249.5,Out of Stock,Refund within 14 days,This item is eligible for free returns within 30 days.
+51,Product 51,Beauty,120.37,Available,Exchange only,This product is covered under our 1-year warranty.
+52,Product 52,Beauty,378.45,Available,Refund within 14 days,Shipping takes 5-7 business days.
+53,Product 53,Toys,303.79,Available,Exchange only,"For warranty details, contact our support team."
+54,Product 54,Books,397.36,Out of Stock,No return,This product is covered under our 1-year warranty.
+55,Product 55,Beauty,309.63,Out of Stock,No return,This item is eligible for free returns within 30 days.
+56,Product 56,Electronics,90.96,Available,No return,"For installation assistance, check our user guide."
+57,Product 57,Electronics,256.19,Out of Stock,No return,"For warranty details, contact our support team."
+58,Product 58,Automotive,260.85,Available,30-day return,"For warranty details, contact our support team."
+59,Product 59,Beauty,122.89,Available,30-day return,"For warranty details, contact our support team."
+60,Product 60,Books,466.34,Available,Exchange only,This product is covered under our 1-year warranty.
+61,Product 61,Sports,111.92,Available,No return,"For warranty details, contact our support team."
+62,Product 62,Electronics,487.88,Available,No return,This product is covered under our 1-year warranty.
+63,Product 63,Home & Kitchen,302.4,Out of Stock,No return,Shipping takes 5-7 business days.
+64,Product 64,Beauty,364.63,Available,No return,"For warranty details, contact our support team."
+65,Product 65,Automotive,191.6,Out of Stock,No return,This product is covered under our 1-year warranty.
+66,Product 66,Beauty,261.16,Out of Stock,30-day return,This product is covered under our 1-year warranty.
+67,Product 67,Toys,327.34,Out of Stock,Refund within 14 days,This item is eligible for free returns within 30 days.
+68,Product 68,Books,417.6,Available,Exchange only,Shipping takes 5-7 business days.
+69,Product 69,Clothing,272.09,Out of Stock,No return,"For warranty details, contact our support team."
+70,Product 70,Books,281.31,Out of Stock,Refund within 14 days,This product is covered under our 1-year warranty.
+71,Product 71,Home & Kitchen,308.93,Out of Stock,No return,This item is eligible for free returns within 30 days.
+72,Product 72,Books,473.81,Available,30-day return,Shipping takes 5-7 business days.
+73,Product 73,Clothing,5.45,Available,Exchange only,Shipping takes 5-7 business days.
+74,Product 74,Books,245.34,Available,Exchange only,This product is covered under our 1-year warranty.
+75,Product 75,Automotive,156.47,Available,No return,"For installation assistance, check our user guide."
+76,Product 76,Home & Kitchen,487.33,Out of Stock,Exchange only,This product is covered under our 1-year warranty.
+77,Product 77,Home & Kitchen,252.77,Available,30-day return,This product is covered under our 1-year warranty.
+78,Product 78,Automotive,464.85,Available,30-day return,"For warranty details, contact our support team."
+79,Product 79,Home & Kitchen,148.8,Available,Refund within 14 days,"For warranty details, contact our support team."
+80,Product 80,Toys,340.65,Out of Stock,No return,Shipping takes 5-7 business days.
+81,Product 81,Automotive,114.05,Available,30-day return,Shipping takes 5-7 business days.
+82,Product 82,Sports,12.8,Out of Stock,Refund within 14 days,Shipping takes 5-7 business days.
+83,Product 83,Clothing,242.5,Out of Stock,Exchange only,This item is eligible for free returns within 30 days.
+84,Product 84,Sports,391.29,Available,Exchange only,"For installation assistance, check our user guide."
+85,Product 85,Automotive,485.49,Out of Stock,Refund within 14 days,"For warranty details, contact our support team."
+86,Product 86,Electronics,236.04,Available,Exchange only,Shipping takes 5-7 business days.
+87,Product 87,Toys,87.36,Available,Refund within 14 days,"For warranty details, contact our support team."
+88,Product 88,Automotive,25.02,Out of Stock,30-day return,"For installation assistance, check our user guide."
+89,Product 89,Books,330.3,Out of Stock,Exchange only,Shipping takes 5-7 business days.
+90,Product 90,Electronics,89.13,Out of Stock,No return,This item is eligible for free returns within 30 days.
+91,Product 91,Sports,439.41,Available,No return,This item is eligible for free returns within 30 days.
+92,Product 92,Toys,24.55,Out of Stock,Exchange only,This item is eligible for free returns within 30 days.
+93,Product 93,Electronics,262.04,Out of Stock,Exchange only,This item is eligible for free returns within 30 days.
+94,Product 94,Home & Kitchen,372.21,Available,30-day return,This item is eligible for free returns within 30 days.
+95,Product 95,Home & Kitchen,263.03,Out of Stock,Exchange only,This item is eligible for free returns within 30 days.
+96,Product 96,Home & Kitchen,246.16,Available,No return,This item is eligible for free returns within 30 days.
+97,Product 97,Electronics,274.68,Available,Exchange only,"For installation assistance, check our user guide."
+98,Product 98,Sports,155.27,Out of Stock,Exchange only,"For warranty details, contact our support team."
+99,Product 99,Books,262.16,Available,No return,"For installation assistance, check our user guide."
+100,Product 100,Electronics,110.26,Out of Stock,Exchange only,"For installation assistance, check our user guide."
+101,Product 101,Sports,385.58,Available,30-day return,"For warranty details, contact our support team."
+102,Product 102,Electronics,74.59,Out of Stock,Refund within 14 days,"For installation assistance, check our user guide."
+103,Product 103,Clothing,78.13,Available,No return,"For installation assistance, check our user guide."
+104,Product 104,Beauty,468.56,Out of Stock,No return,"For installation assistance, check our user guide."
+105,Product 105,Automotive,353.08,Available,30-day return,"For installation assistance, check our user guide."
+106,Product 106,Automotive,174.63,Available,No return,This product is covered under our 1-year warranty.
+107,Product 107,Beauty,168.2,Available,Exchange only,"For warranty details, contact our support team."
+108,Product 108,Automotive,27.98,Out of Stock,No return,Shipping takes 5-7 business days.
+109,Product 109,Home & Kitchen,414.68,Out of Stock,Refund within 14 days,This item is eligible for free returns within 30 days.
+110,Product 110,Clothing,446.34,Out of Stock,Exchange only,This product is covered under our 1-year warranty.
+111,Product 111,Home & Kitchen,98.27,Available,Exchange only,"For warranty details, contact our support team."
+112,Product 112,Books,431.55,Available,Exchange only,"For warranty details, contact our support team."
+113,Product 113,Home & Kitchen,396.83,Available,No return,This product is covered under our 1-year warranty.
+114,Product 114,Home & Kitchen,293.53,Available,Exchange only,This item is eligible for free returns within 30 days.
+115,Product 115,Clothing,314.02,Available,Exchange only,Shipping takes 5-7 business days.
+116,Product 116,Clothing,369.67,Available,No return,This product is covered under our 1-year warranty.
+117,Product 117,Toys,115.14,Available,No return,"For installation assistance, check our user guide."
+118,Product 118,Toys,471.26,Available,Exchange only,Shipping takes 5-7 business days.
+119,Product 119,Home & Kitchen,350.18,Available,No return,This item is eligible for free returns within 30 days.
+120,Product 120,Clothing,231.95,Out of Stock,30-day return,This item is eligible for free returns within 30 days.
+121,Product 121,Books,313.46,Available,Refund within 14 days,"For warranty details, contact our support team."
+122,Product 122,Automotive,250.46,Available,No return,Shipping takes 5-7 business days.
+123,Product 123,Sports,495.77,Out of Stock,No return,This product is covered under our 1-year warranty.
+124,Product 124,Electronics,117.62,Out of Stock,No return,This item is eligible for free returns within 30 days.
+125,Product 125,Toys,386.79,Out of Stock,No return,This item is eligible for free returns within 30 days.
+126,Product 126,Books,90.13,Out of Stock,30-day return,Shipping takes 5-7 business days.
+127,Product 127,Clothing,470.51,Available,30-day return,This item is eligible for free returns within 30 days.
+128,Product 128,Automotive,356.3,Available,No return,Shipping takes 5-7 business days.
+129,Product 129,Home & Kitchen,42.76,Out of Stock,No return,This item is eligible for free returns within 30 days.
+130,Product 130,Books,255.53,Available,No return,This item is eligible for free returns within 30 days.
+131,Product 131,Beauty,470.64,Out of Stock,Exchange only,This item is eligible for free returns within 30 days.
+132,Product 132,Sports,185.32,Out of Stock,30-day return,"For warranty details, contact our support team."
+133,Product 133,Beauty,139.82,Available,30-day return,This item is eligible for free returns within 30 days.
+134,Product 134,Automotive,405.3,Out of Stock,30-day return,"For warranty details, contact our support team."
+135,Product 135,Sports,481.35,Out of Stock,Exchange only,"For warranty details, contact our support team."
+136,Product 136,Clothing,481.78,Out of Stock,Refund within 14 days,Shipping takes 5-7 business days.
+137,Product 137,Automotive,368.39,Out of Stock,No return,Shipping takes 5-7 business days.
+138,Product 138,Beauty,363.88,Available,Exchange only,Shipping takes 5-7 business days.
+139,Product 139,Automotive,301.4,Out of Stock,Exchange only,This product is covered under our 1-year warranty.
+140,Product 140,Books,246.96,Available,Refund within 14 days,"For warranty details, contact our support team."
+141,Product 141,Beauty,228.57,Out of Stock,Refund within 14 days,Shipping takes 5-7 business days.
+142,Product 142,Books,105.96,Available,Exchange only,This item is eligible for free returns within 30 days.
+143,Product 143,Clothing,215.99,Out of Stock,No return,"For installation assistance, check our user guide."
+144,Product 144,Toys,15.01,Available,Exchange only,This product is covered under our 1-year warranty.
+145,Product 145,Beauty,14.34,Out of Stock,No return,Shipping takes 5-7 business days.
+146,Product 146,Books,400.37,Available,30-day return,"For installation assistance, check our user guide."
+147,Product 147,Books,167.89,Out of Stock,30-day return,"For installation assistance, check our user guide."
+148,Product 148,Beauty,371.36,Available,Refund within 14 days,Shipping takes 5-7 business days.
+149,Product 149,Sports,152.51,Available,No return,This product is covered under our 1-year warranty.
+150,Product 150,Home & Kitchen,74.16,Available,Refund within 14 days,"For warranty details, contact our support team."
+151,Product 151,Electronics,102.59,Available,30-day return,"For installation assistance, check our user guide."
+152,Product 152,Electronics,462.64,Available,Refund within 14 days,"For installation assistance, check our user guide."
+153,Product 153,Automotive,271.08,Out of Stock,30-day return,"For installation assistance, check our user guide."
+154,Product 154,Clothing,202.93,Available,No return,This item is eligible for free returns within 30 days.
+155,Product 155,Books,369.84,Out of Stock,Exchange only,This item is eligible for free returns within 30 days.
+156,Product 156,Electronics,220.49,Available,Refund within 14 days,"For warranty details, contact our support team."
+157,Product 157,Beauty,368.99,Available,No return,This item is eligible for free returns within 30 days.
+158,Product 158,Electronics,429.84,Out of Stock,Refund within 14 days,Shipping takes 5-7 business days.
+159,Product 159,Toys,225.89,Available,Refund within 14 days,This product is covered under our 1-year warranty.
+160,Product 160,Clothing,229.47,Out of Stock,Exchange only,This product is covered under our 1-year warranty.
+161,Product 161,Clothing,312.69,Available,No return,"For warranty details, contact our support team."
+162,Product 162,Beauty,484.73,Available,Exchange only,"For installation assistance, check our user guide."
+163,Product 163,Beauty,237.07,Available,No return,This item is eligible for free returns within 30 days.
+164,Product 164,Automotive,37.98,Available,Exchange only,"For installation assistance, check our user guide."
+165,Product 165,Toys,162.05,Available,Exchange only,This product is covered under our 1-year warranty.
+166,Product 166,Automotive,454.98,Out of Stock,Refund within 14 days,"For warranty details, contact our support team."
+167,Product 167,Beauty,498.83,Out of Stock,Exchange only,"For warranty details, contact our support team."
+168,Product 168,Toys,181.74,Available,Refund within 14 days,"For installation assistance, check our user guide."
+169,Product 169,Automotive,464.61,Available,No return,This product is covered under our 1-year warranty.
+170,Product 170,Automotive,66.37,Available,Refund within 14 days,"For warranty details, contact our support team."
+171,Product 171,Toys,430.08,Out of Stock,No return,"For installation assistance, check our user guide."
+172,Product 172,Sports,57.79,Out of Stock,30-day return,This product is covered under our 1-year warranty.
+173,Product 173,Toys,168.11,Available,Refund within 14 days,"For installation assistance, check our user guide."
+174,Product 174,Electronics,340.98,Out of Stock,Refund within 14 days,This product is covered under our 1-year warranty.
+175,Product 175,Beauty,321.24,Out of Stock,30-day return,"For installation assistance, check our user guide."
+176,Product 176,Toys,413.2,Out of Stock,No return,"For installation assistance, check our user guide."
+177,Product 177,Toys,458.4,Available,Exchange only,"For installation assistance, check our user guide."
+178,Product 178,Books,344.27,Out of Stock,Refund within 14 days,"For installation assistance, check our user guide."
+179,Product 179,Toys,296.94,Out of Stock,No return,"For warranty details, contact our support team."
+180,Product 180,Clothing,286.15,Out of Stock,30-day return,"For installation assistance, check our user guide."
+181,Product 181,Beauty,329.58,Available,Exchange only,Shipping takes 5-7 business days.
+182,Product 182,Beauty,12.64,Out of Stock,No return,This product is covered under our 1-year warranty.
+183,Product 183,Electronics,413.6,Available,30-day return,This product is covered under our 1-year warranty.
+184,Product 184,Toys,8.67,Available,Exchange only,This item is eligible for free returns within 30 days.
+185,Product 185,Sports,239.8,Out of Stock,Refund within 14 days,This product is covered under our 1-year warranty.
+186,Product 186,Sports,421.1,Out of Stock,30-day return,This product is covered under our 1-year warranty.
+187,Product 187,Electronics,323.29,Available,Refund within 14 days,"For installation assistance, check our user guide."
+188,Product 188,Home & Kitchen,421.31,Out of Stock,Exchange only,"For installation assistance, check our user guide."
+189,Product 189,Automotive,433.87,Out of Stock,Exchange only,"For installation assistance, check our user guide."
+190,Product 190,Toys,261.89,Available,30-day return,"For installation assistance, check our user guide."
+191,Product 191,Beauty,306.28,Available,No return,"For warranty details, contact our support team."
+192,Product 192,Beauty,427.87,Available,30-day return,"For installation assistance, check our user guide."
+193,Product 193,Toys,53.9,Available,Exchange only,"For installation assistance, check our user guide."
+194,Product 194,Electronics,102.34,Out of Stock,Refund within 14 days,"For installation assistance, check our user guide."
+195,Product 195,Sports,462.81,Available,No return,"For installation assistance, check our user guide."
+196,Product 196,Clothing,386.16,Available,30-day return,Shipping takes 5-7 business days.
+197,Product 197,Books,342.83,Available,Exchange only,"For warranty details, contact our support team."
+198,Product 198,Sports,432.3,Available,Exchange only,Shipping takes 5-7 business days.
+199,Product 199,Clothing,421.65,Out of Stock,No return,"For installation assistance, check our user guide."
+200,Product 200,Clothing,466.37,Available,30-day return,This item is eligible for free returns within 30 days.
+201,Product 201,Electronics,23.91,Available,30-day return,"For installation assistance, check our user guide."
+202,Product 202,Toys,302.64,Out of Stock,No return,This product is covered under our 1-year warranty.
+203,Product 203,Clothing,222.27,Available,Refund within 14 days,Shipping takes 5-7 business days.
+204,Product 204,Beauty,380.8,Available,Exchange only,This item is eligible for free returns within 30 days.
+205,Product 205,Automotive,68.93,Out of Stock,No return,"For warranty details, contact our support team."
+206,Product 206,Electronics,429.55,Available,Exchange only,"For installation assistance, check our user guide."
+207,Product 207,Electronics,185.41,Available,Exchange only,This product is covered under our 1-year warranty.
+208,Product 208,Books,27.23,Available,Exchange only,This item is eligible for free returns within 30 days.
+209,Product 209,Home & Kitchen,187.42,Available,No return,"For warranty details, contact our support team."
+210,Product 210,Electronics,126.23,Available,30-day return,"For warranty details, contact our support team."
+211,Product 211,Clothing,127.56,Available,No return,Shipping takes 5-7 business days.
+212,Product 212,Sports,87.82,Available,30-day return,"For installation assistance, check our user guide."
+213,Product 213,Clothing,73.06,Available,Exchange only,This item is eligible for free returns within 30 days.
+214,Product 214,Beauty,494.13,Available,Refund within 14 days,This product is covered under our 1-year warranty.
+215,Product 215,Beauty,380.35,Available,30-day return,This item is eligible for free returns within 30 days.
+216,Product 216,Toys,482.79,Available,30-day return,"For warranty details, contact our support team."
+217,Product 217,Automotive,179.91,Out of Stock,No return,"For installation assistance, check our user guide."
+218,Product 218,Clothing,289.36,Available,30-day return,"For installation assistance, check our user guide."
+219,Product 219,Home & Kitchen,265.53,Available,No return,"For warranty details, contact our support team."
+220,Product 220,Beauty,41.52,Out of Stock,No return,This item is eligible for free returns within 30 days.
+221,Product 221,Automotive,173.57,Out of Stock,Exchange only,This item is eligible for free returns within 30 days.
+222,Product 222,Home & Kitchen,390.54,Available,Refund within 14 days,This item is eligible for free returns within 30 days.
+223,Product 223,Clothing,307.75,Out of Stock,Exchange only,"For installation assistance, check our user guide."
+224,Product 224,Books,37,Out of Stock,Exchange only,This product is covered under our 1-year warranty.
+225,Product 225,Electronics,388.98,Out of Stock,Exchange only,"For warranty details, contact our support team."
+226,Product 226,Electronics,51.61,Out of Stock,No return,"For installation assistance, check our user guide."
+227,Product 227,Sports,289.77,Out of Stock,30-day return,"For warranty details, contact our support team."
+228,Product 228,Electronics,136.97,Out of Stock,No return,"For warranty details, contact our support team."
+229,Product 229,Automotive,128.04,Out of Stock,30-day return,This item is eligible for free returns within 30 days.
+230,Product 230,Clothing,449.79,Available,30-day return,"For installation assistance, check our user guide."
+231,Product 231,Clothing,409.36,Out of Stock,Refund within 14 days,Shipping takes 5-7 business days.
+232,Product 232,Home & Kitchen,72.49,Out of Stock,Refund within 14 days,"For warranty details, contact our support team."
+233,Product 233,Toys,331.42,Out of Stock,30-day return,"For warranty details, contact our support team."
+234,Product 234,Beauty,72.92,Available,Exchange only,This item is eligible for free returns within 30 days.
+235,Product 235,Beauty,266.73,Out of Stock,Exchange only,"For installation assistance, check our user guide."
+236,Product 236,Sports,197.95,Available,No return,This item is eligible for free returns within 30 days.
+237,Product 237,Books,420.03,Out of Stock,30-day return,"For installation assistance, check our user guide."
+238,Product 238,Toys,169.72,Out of Stock,30-day return,This product is covered under our 1-year warranty.
+239,Product 239,Automotive,5.76,Available,30-day return,Shipping takes 5-7 business days.
+240,Product 240,Automotive,464.22,Available,Exchange only,"For warranty details, contact our support team."
+241,Product 241,Clothing,268.46,Available,30-day return,"For installation assistance, check our user guide."
+242,Product 242,Electronics,195.63,Out of Stock,Exchange only,"For installation assistance, check our user guide."
+243,Product 243,Toys,328.33,Out of Stock,Exchange only,"For installation assistance, check our user guide."
+244,Product 244,Electronics,109.42,Available,Refund within 14 days,This product is covered under our 1-year warranty.
+245,Product 245,Books,210.07,Out of Stock,30-day return,"For installation assistance, check our user guide."
+246,Product 246,Books,25.83,Out of Stock,No return,"For warranty details, contact our support team."
+247,Product 247,Books,173.32,Available,No return,"For installation assistance, check our user guide."
+248,Product 248,Beauty,115.26,Available,No return,"For warranty details, contact our support team."
+249,Product 249,Electronics,445.66,Available,No return,Shipping takes 5-7 business days.
+250,Product 250,Books,145.36,Available,No return,"For installation assistance, check our user guide."
+251,Product 251,Beauty,322.9,Out of Stock,No return,This product is covered under our 1-year warranty.
+252,Product 252,Home & Kitchen,58.59,Available,30-day return,Shipping takes 5-7 business days.
+253,Product 253,Clothing,219.31,Available,Exchange only,This item is eligible for free returns within 30 days.
+254,Product 254,Home & Kitchen,161.81,Out of Stock,Exchange only,Shipping takes 5-7 business days.
+255,Product 255,Electronics,106.75,Out of Stock,30-day return,"For installation assistance, check our user guide."
+256,Product 256,Automotive,466.63,Out of Stock,Exchange only,Shipping takes 5-7 business days.
+257,Product 257,Home & Kitchen,361.07,Available,Refund within 14 days,This item is eligible for free returns within 30 days.
+258,Product 258,Books,7.27,Available,30-day return,"For warranty details, contact our support team."
+259,Product 259,Books,377.45,Out of Stock,No return,This item is eligible for free returns within 30 days.
+260,Product 260,Automotive,497.46,Available,Exchange only,Shipping takes 5-7 business days.
+261,Product 261,Sports,319.94,Available,No return,This item is eligible for free returns within 30 days.
+262,Product 262,Books,366.64,Available,Exchange only,"For installation assistance, check our user guide."
+263,Product 263,Sports,25.01,Out of Stock,No return,"For warranty details, contact our support team."
+264,Product 264,Beauty,119.32,Available,Refund within 14 days,"For installation assistance, check our user guide."
+265,Product 265,Electronics,109.48,Available,No return,"For warranty details, contact our support team."
+266,Product 266,Sports,117.21,Available,Refund within 14 days,Shipping takes 5-7 business days.
+267,Product 267,Beauty,419.77,Available,Refund within 14 days,Shipping takes 5-7 business days.
+268,Product 268,Toys,156.12,Out of Stock,Refund within 14 days,This product is covered under our 1-year warranty.
+269,Product 269,Electronics,84.65,Out of Stock,Refund within 14 days,"For warranty details, contact our support team."
+270,Product 270,Clothing,339.36,Out of Stock,Exchange only,This product is covered under our 1-year warranty.
+271,Product 271,Beauty,216.64,Out of Stock,No return,This item is eligible for free returns within 30 days.
+272,Product 272,Clothing,359.74,Out of Stock,30-day return,This item is eligible for free returns within 30 days.
+273,Product 273,Clothing,166.64,Out of Stock,No return,Shipping takes 5-7 business days.
+274,Product 274,Clothing,262.34,Out of Stock,Refund within 14 days,"For warranty details, contact our support team."
+275,Product 275,Books,429.03,Out of Stock,Refund within 14 days,"For installation assistance, check our user guide."
+276,Product 276,Electronics,406.07,Available,No return,This item is eligible for free returns within 30 days.
+277,Product 277,Clothing,155.14,Out of Stock,30-day return,This item is eligible for free returns within 30 days.
+278,Product 278,Sports,80.03,Out of Stock,No return,This product is covered under our 1-year warranty.
+279,Product 279,Books,14.28,Available,Exchange only,"For installation assistance, check our user guide."
+280,Product 280,Books,94.89,Available,Refund within 14 days,This product is covered under our 1-year warranty.
+281,Product 281,Electronics,31.78,Out of Stock,No return,Shipping takes 5-7 business days.
+282,Product 282,Beauty,254.94,Out of Stock,No return,This product is covered under our 1-year warranty.
+283,Product 283,Beauty,201.91,Available,Refund within 14 days,"For warranty details, contact our support team."
+284,Product 284,Sports,275.5,Out of Stock,No return,"For installation assistance, check our user guide."
+285,Product 285,Home & Kitchen,312.99,Available,Refund within 14 days,"For warranty details, contact our support team."
+286,Product 286,Beauty,242.62,Available,Refund within 14 days,Shipping takes 5-7 business days.
+287,Product 287,Beauty,168.99,Out of Stock,No return,This product is covered under our 1-year warranty.
+288,Product 288,Automotive,356.81,Out of Stock,30-day return,This product is covered under our 1-year warranty.
+289,Product 289,Beauty,284.32,Available,Exchange only,"For warranty details, contact our support team."
+290,Product 290,Automotive,159,Available,30-day return,Shipping takes 5-7 business days.
+291,Product 291,Automotive,221.25,Out of Stock,Refund within 14 days,Shipping takes 5-7 business days.
+292,Product 292,Toys,358.21,Out of Stock,Refund within 14 days,"For installation assistance, check our user guide."
+293,Product 293,Toys,233.37,Out of Stock,30-day return,This product is covered under our 1-year warranty.
+294,Product 294,Electronics,381.49,Available,Exchange only,"For warranty details, contact our support team."
+295,Product 295,Clothing,204.94,Out of Stock,Exchange only,"For installation assistance, check our user guide."
+296,Product 296,Books,224.27,Out of Stock,Refund within 14 days,Shipping takes 5-7 business days.
+297,Product 297,Toys,481.03,Available,Refund within 14 days,"For installation assistance, check our user guide."
+298,Product 298,Clothing,296.75,Available,Exchange only,Shipping takes 5-7 business days.
+299,Product 299,Home & Kitchen,38.68,Available,30-day return,"For warranty details, contact our support team."
+300,Product 300,Electronics,379.66,Available,No return,"For warranty details, contact our support team."
+301,Product 301,Beauty,106.63,Out of Stock,30-day return,This item is eligible for free returns within 30 days.
+302,Product 302,Clothing,111.22,Available,Exchange only,"For warranty details, contact our support team."
+303,Product 303,Automotive,279.71,Out of Stock,Refund within 14 days,This product is covered under our 1-year warranty.
+304,Product 304,Electronics,57.09,Available,30-day return,"For installation assistance, check our user guide."
+305,Product 305,Sports,199.81,Available,Refund within 14 days,This item is eligible for free returns within 30 days.
+306,Product 306,Electronics,40.5,Out of Stock,No return,"For installation assistance, check our user guide."
+307,Product 307,Home & Kitchen,225.4,Available,Refund within 14 days,This product is covered under our 1-year warranty.
+308,Product 308,Sports,67.59,Available,Exchange only,"For warranty details, contact our support team."
+309,Product 309,Clothing,177.53,Out of Stock,No return,This product is covered under our 1-year warranty.
+310,Product 310,Beauty,323.94,Out of Stock,30-day return,"For installation assistance, check our user guide."
+311,Product 311,Automotive,78.34,Out of Stock,No return,This item is eligible for free returns within 30 days.
+312,Product 312,Automotive,349.34,Available,Exchange only,"For warranty details, contact our support team."
+313,Product 313,Sports,146.37,Available,Exchange only,This item is eligible for free returns within 30 days.
+314,Product 314,Home & Kitchen,8.3,Available,Refund within 14 days,"For installation assistance, check our user guide."
+315,Product 315,Beauty,118.66,Available,Refund within 14 days,This product is covered under our 1-year warranty.
+316,Product 316,Sports,312.39,Available,30-day return,"For installation assistance, check our user guide."
+317,Product 317,Automotive,235.15,Available,Exchange only,"For warranty details, contact our support team."
+318,Product 318,Electronics,33.54,Available,Refund within 14 days,"For installation assistance, check our user guide."
+319,Product 319,Beauty,278.43,Available,No return,This product is covered under our 1-year warranty.
+320,Product 320,Electronics,412.16,Available,Refund within 14 days,This product is covered under our 1-year warranty.
+321,Product 321,Home & Kitchen,434.48,Out of Stock,Exchange only,This product is covered under our 1-year warranty.
+322,Product 322,Automotive,387.36,Available,30-day return,This item is eligible for free returns within 30 days.
+323,Product 323,Automotive,114.6,Out of Stock,30-day return,This item is eligible for free returns within 30 days.
+324,Product 324,Clothing,194.19,Available,Refund within 14 days,This item is eligible for free returns within 30 days.
+325,Product 325,Clothing,199.68,Available,30-day return,This item is eligible for free returns within 30 days.
+326,Product 326,Electronics,72.77,Available,Exchange only,Shipping takes 5-7 business days.
+327,Product 327,Books,470.56,Out of Stock,Exchange only,"For warranty details, contact our support team."
+328,Product 328,Clothing,460.57,Out of Stock,30-day return,"For installation assistance, check our user guide."
+329,Product 329,Clothing,204.06,Available,Exchange only,Shipping takes 5-7 business days.
+330,Product 330,Books,90.25,Available,Exchange only,Shipping takes 5-7 business days.
+331,Product 331,Beauty,376.19,Available,Exchange only,This item is eligible for free returns within 30 days.
+332,Product 332,Home & Kitchen,264.14,Out of Stock,Refund within 14 days,"For installation assistance, check our user guide."
+333,Product 333,Home & Kitchen,162.89,Available,30-day return,"For installation assistance, check our user guide."
+334,Product 334,Toys,453.27,Out of Stock,30-day return,"For installation assistance, check our user guide."
+335,Product 335,Automotive,415.12,Out of Stock,Refund within 14 days,"For installation assistance, check our user guide."
+336,Product 336,Books,295.44,Out of Stock,No return,This product is covered under our 1-year warranty.
+337,Product 337,Electronics,459.61,Available,Exchange only,"For warranty details, contact our support team."
+338,Product 338,Sports,290,Out of Stock,No return,This product is covered under our 1-year warranty.
+339,Product 339,Beauty,44.35,Available,Exchange only,This product is covered under our 1-year warranty.
+340,Product 340,Clothing,35.37,Out of Stock,30-day return,Shipping takes 5-7 business days.
+341,Product 341,Automotive,431.81,Available,30-day return,"For installation assistance, check our user guide."
+342,Product 342,Electronics,13.9,Out of Stock,Exchange only,"For installation assistance, check our user guide."
+343,Product 343,Automotive,304.46,Available,30-day return,This item is eligible for free returns within 30 days.
+344,Product 344,Toys,41.76,Out of Stock,Refund within 14 days,This item is eligible for free returns within 30 days.
+345,Product 345,Toys,420.19,Out of Stock,30-day return,This product is covered under our 1-year warranty.
+346,Product 346,Toys,196.4,Available,Refund within 14 days,This item is eligible for free returns within 30 days.
+347,Product 347,Home & Kitchen,260.54,Out of Stock,No return,Shipping takes 5-7 business days.
+348,Product 348,Toys,15.31,Out of Stock,30-day return,"For installation assistance, check our user guide."
+349,Product 349,Books,441.26,Available,Refund within 14 days,"For installation assistance, check our user guide."
+350,Product 350,Sports,57.46,Available,Exchange only,This item is eligible for free returns within 30 days.
+351,Product 351,Home & Kitchen,202.6,Available,Refund within 14 days,"For warranty details, contact our support team."
+352,Product 352,Beauty,121.54,Available,30-day return,This product is covered under our 1-year warranty.
+353,Product 353,Books,223.02,Available,Refund within 14 days,This product is covered under our 1-year warranty.
+354,Product 354,Beauty,199.13,Out of Stock,Refund within 14 days,This product is covered under our 1-year warranty.
+355,Product 355,Home & Kitchen,184.86,Available,Refund within 14 days,"For warranty details, contact our support team."
+356,Product 356,Electronics,330.92,Out of Stock,30-day return,Shipping takes 5-7 business days.
+357,Product 357,Books,373.51,Available,Refund within 14 days,"For installation assistance, check our user guide."
+358,Product 358,Clothing,361.82,Available,Exchange only,This product is covered under our 1-year warranty.
+359,Product 359,Clothing,185.16,Out of Stock,No return,"For installation assistance, check our user guide."
+360,Product 360,Beauty,274.01,Out of Stock,No return,This item is eligible for free returns within 30 days.
+361,Product 361,Clothing,203,Out of Stock,Refund within 14 days,This product is covered under our 1-year warranty.
+362,Product 362,Clothing,413.3,Out of Stock,Exchange only,"For installation assistance, check our user guide."
+363,Product 363,Toys,52.05,Out of Stock,No return,"For installation assistance, check our user guide."
+364,Product 364,Electronics,117.38,Out of Stock,Refund within 14 days,This item is eligible for free returns within 30 days.
+365,Product 365,Beauty,82.01,Out of Stock,30-day return,Shipping takes 5-7 business days.
+366,Product 366,Clothing,446.28,Available,Refund within 14 days,"For warranty details, contact our support team."
+367,Product 367,Automotive,121.59,Out of Stock,Exchange only,This product is covered under our 1-year warranty.
+368,Product 368,Books,350.13,Available,30-day return,This item is eligible for free returns within 30 days.
+369,Product 369,Electronics,167.49,Available,Exchange only,"For warranty details, contact our support team."
+370,Product 370,Electronics,408.59,Out of Stock,Refund within 14 days,"For warranty details, contact our support team."
+371,Product 371,Automotive,289.8,Out of Stock,Exchange only,This product is covered under our 1-year warranty.
+372,Product 372,Toys,370.57,Out of Stock,Exchange only,This item is eligible for free returns within 30 days.
+373,Product 373,Clothing,159.29,Available,Exchange only,"For installation assistance, check our user guide."
+374,Product 374,Books,206.56,Out of Stock,Exchange only,Shipping takes 5-7 business days.
+375,Product 375,Electronics,29.26,Out of Stock,30-day return,This product is covered under our 1-year warranty.
+376,Product 376,Toys,145.62,Available,Refund within 14 days,"For warranty details, contact our support team."
+377,Product 377,Electronics,215.71,Available,No return,This product is covered under our 1-year warranty.
+378,Product 378,Books,433.02,Out of Stock,No return,Shipping takes 5-7 business days.
+379,Product 379,Toys,133.7,Available,Refund within 14 days,This product is covered under our 1-year warranty.
+380,Product 380,Automotive,28.34,Available,30-day return,"For warranty details, contact our support team."
+381,Product 381,Automotive,271.32,Out of Stock,No return,This product is covered under our 1-year warranty.
+382,Product 382,Clothing,229.44,Available,Refund within 14 days,"For installation assistance, check our user guide."
+383,Product 383,Clothing,366.21,Available,Refund within 14 days,This product is covered under our 1-year warranty.
+384,Product 384,Automotive,322.83,Out of Stock,No return,"For installation assistance, check our user guide."
+385,Product 385,Automotive,373.35,Out of Stock,30-day return,This product is covered under our 1-year warranty.
+386,Product 386,Books,89.58,Out of Stock,No return,"For warranty details, contact our support team."
+387,Product 387,Books,119.07,Out of Stock,30-day return,"For installation assistance, check our user guide."
+388,Product 388,Books,401.05,Out of Stock,Exchange only,This product is covered under our 1-year warranty.
+389,Product 389,Clothing,209.68,Out of Stock,Refund within 14 days,"For warranty details, contact our support team."
+390,Product 390,Clothing,247.95,Available,30-day return,This product is covered under our 1-year warranty.
+391,Product 391,Automotive,258.22,Out of Stock,Refund within 14 days,This item is eligible for free returns within 30 days.
+392,Product 392,Electronics,87.96,Available,30-day return,This product is covered under our 1-year warranty.
+393,Product 393,Electronics,397.55,Available,30-day return,This item is eligible for free returns within 30 days.
+394,Product 394,Toys,283.48,Available,No return,This item is eligible for free returns within 30 days.
+395,Product 395,Sports,365.68,Available,30-day return,"For installation assistance, check our user guide."
+396,Product 396,Clothing,76.32,Out of Stock,30-day return,This product is covered under our 1-year warranty.
+397,Product 397,Electronics,18.7,Available,No return,"For installation assistance, check our user guide."
+398,Product 398,Books,180.73,Available,Refund within 14 days,"For warranty details, contact our support team."
+399,Product 399,Sports,193.89,Out of Stock,Exchange only,Shipping takes 5-7 business days.
+400,Product 400,Electronics,379.21,Available,Exchange only,"For warranty details, contact our support team."
+401,Product 401,Beauty,243.3,Available,30-day return,This item is eligible for free returns within 30 days.
+402,Product 402,Home & Kitchen,487.85,Out of Stock,Exchange only,This item is eligible for free returns within 30 days.
+403,Product 403,Automotive,254.09,Out of Stock,Refund within 14 days,This product is covered under our 1-year warranty.
+404,Product 404,Electronics,406.42,Out of Stock,Refund within 14 days,Shipping takes 5-7 business days.
+405,Product 405,Clothing,242.1,Out of Stock,No return,"For installation assistance, check our user guide."
+406,Product 406,Toys,198.89,Out of Stock,Exchange only,This product is covered under our 1-year warranty.
+407,Product 407,Sports,92.63,Out of Stock,Refund within 14 days,This item is eligible for free returns within 30 days.
+408,Product 408,Clothing,228.17,Out of Stock,Exchange only,"For warranty details, contact our support team."
+409,Product 409,Beauty,179.27,Out of Stock,Refund within 14 days,This product is covered under our 1-year warranty.
+410,Product 410,Toys,27.48,Out of Stock,30-day return,This item is eligible for free returns within 30 days.
+411,Product 411,Clothing,127.06,Out of Stock,Exchange only,This product is covered under our 1-year warranty.
+412,Product 412,Beauty,450.62,Available,No return,"For installation assistance, check our user guide."
+413,Product 413,Beauty,183.41,Out of Stock,Exchange only,Shipping takes 5-7 business days.
+414,Product 414,Beauty,94.69,Available,30-day return,"For installation assistance, check our user guide."
+415,Product 415,Electronics,147.26,Available,No return,This item is eligible for free returns within 30 days.
+416,Product 416,Home & Kitchen,490.15,Out of Stock,Refund within 14 days,Shipping takes 5-7 business days.
+417,Product 417,Clothing,335.93,Available,Exchange only,"For installation assistance, check our user guide."
+418,Product 418,Home & Kitchen,47.22,Out of Stock,Refund within 14 days,This product is covered under our 1-year warranty.
+419,Product 419,Clothing,219.73,Out of Stock,Refund within 14 days,"For warranty details, contact our support team."
+420,Product 420,Toys,105.96,Available,30-day return,This product is covered under our 1-year warranty.
+421,Product 421,Automotive,425.58,Out of Stock,Exchange only,Shipping takes 5-7 business days.
+422,Product 422,Automotive,274.63,Available,30-day return,"For warranty details, contact our support team."
+423,Product 423,Electronics,5.11,Out of Stock,30-day return,This item is eligible for free returns within 30 days.
+424,Product 424,Automotive,28.82,Available,Exchange only,"For warranty details, contact our support team."
+425,Product 425,Home & Kitchen,388.25,Out of Stock,No return,This item is eligible for free returns within 30 days.
+426,Product 426,Beauty,151.16,Available,Exchange only,Shipping takes 5-7 business days.
+427,Product 427,Home & Kitchen,465.45,Available,Exchange only,Shipping takes 5-7 business days.
+428,Product 428,Beauty,125.31,Available,Exchange only,This product is covered under our 1-year warranty.
+429,Product 429,Toys,467.52,Available,30-day return,"For installation assistance, check our user guide."
+430,Product 430,Sports,257.06,Out of Stock,Refund within 14 days,This item is eligible for free returns within 30 days.
+431,Product 431,Books,257.33,Available,No return,This product is covered under our 1-year warranty.
+432,Product 432,Beauty,17.45,Available,30-day return,"For warranty details, contact our support team."
+433,Product 433,Electronics,348.67,Out of Stock,Refund within 14 days,This item is eligible for free returns within 30 days.
+434,Product 434,Sports,106.12,Out of Stock,Refund within 14 days,"For installation assistance, check our user guide."
+435,Product 435,Books,50.03,Available,Exchange only,Shipping takes 5-7 business days.
+436,Product 436,Sports,299.05,Available,Exchange only,"For installation assistance, check our user guide."
+437,Product 437,Toys,13.71,Available,Exchange only,"For installation assistance, check our user guide."
+438,Product 438,Home & Kitchen,235.12,Out of Stock,Refund within 14 days,"For installation assistance, check our user guide."
+439,Product 439,Automotive,292.04,Available,Exchange only,This item is eligible for free returns within 30 days.
+440,Product 440,Clothing,319.81,Available,30-day return,"For warranty details, contact our support team."
+441,Product 441,Toys,240.07,Available,30-day return,"For warranty details, contact our support team."
+442,Product 442,Electronics,90.35,Available,No return,This product is covered under our 1-year warranty.
+443,Product 443,Home & Kitchen,246.7,Out of Stock,Exchange only,"For installation assistance, check our user guide."
+444,Product 444,Beauty,353.53,Available,30-day return,"For warranty details, contact our support team."
+445,Product 445,Books,82.79,Out of Stock,Exchange only,This product is covered under our 1-year warranty.
+446,Product 446,Sports,124.49,Out of Stock,No return,"For installation assistance, check our user guide."
+447,Product 447,Sports,303,Out of Stock,Exchange only,"For installation assistance, check our user guide."
+448,Product 448,Clothing,409.78,Available,Exchange only,This item is eligible for free returns within 30 days.
+449,Product 449,Books,247.96,Available,Refund within 14 days,"For warranty details, contact our support team."
+450,Product 450,Automotive,309.56,Available,Exchange only,"For warranty details, contact our support team."
+451,Product 451,Toys,439.95,Available,30-day return,"For warranty details, contact our support team."
+452,Product 452,Clothing,462.06,Out of Stock,No return,This item is eligible for free returns within 30 days.
+453,Product 453,Sports,16.29,Available,No return,This product is covered under our 1-year warranty.
+454,Product 454,Automotive,262.28,Available,Refund within 14 days,"For installation assistance, check our user guide."
+455,Product 455,Beauty,181.18,Out of Stock,Exchange only,"For warranty details, contact our support team."
+456,Product 456,Toys,450.22,Available,Exchange only,This item is eligible for free returns within 30 days.
+457,Product 457,Automotive,325.54,Out of Stock,No return,Shipping takes 5-7 business days.
+458,Product 458,Electronics,88.8,Out of Stock,Exchange only,Shipping takes 5-7 business days.
+459,Product 459,Automotive,359.23,Out of Stock,Refund within 14 days,This item is eligible for free returns within 30 days.
+460,Product 460,Electronics,373.03,Available,Exchange only,This product is covered under our 1-year warranty.
+461,Product 461,Home & Kitchen,146.55,Out of Stock,No return,"For installation assistance, check our user guide."
+462,Product 462,Home & Kitchen,278.04,Available,Exchange only,Shipping takes 5-7 business days.
+463,Product 463,Sports,330.64,Available,Exchange only,This product is covered under our 1-year warranty.
+464,Product 464,Home & Kitchen,431.09,Available,30-day return,This product is covered under our 1-year warranty.
+465,Product 465,Electronics,78.29,Available,Refund within 14 days,This product is covered under our 1-year warranty.
+466,Product 466,Sports,106.55,Available,Refund within 14 days,"For installation assistance, check our user guide."
+467,Product 467,Clothing,56.68,Out of Stock,No return,"For warranty details, contact our support team."
+468,Product 468,Automotive,326.23,Out of Stock,30-day return,This product is covered under our 1-year warranty.
+469,Product 469,Electronics,101.87,Out of Stock,No return,This item is eligible for free returns within 30 days.
+470,Product 470,Books,215.07,Out of Stock,30-day return,Shipping takes 5-7 business days.
+471,Product 471,Sports,106.96,Out of Stock,Exchange only,This product is covered under our 1-year warranty.
+472,Product 472,Sports,334.01,Available,Exchange only,Shipping takes 5-7 business days.
+473,Product 473,Automotive,104.11,Available,No return,This item is eligible for free returns within 30 days.
+474,Product 474,Toys,111.33,Available,30-day return,"For installation assistance, check our user guide."
+475,Product 475,Books,101.41,Out of Stock,Refund within 14 days,"For installation assistance, check our user guide."
+476,Product 476,Electronics,91.24,Out of Stock,Refund within 14 days,This item is eligible for free returns within 30 days.
+477,Product 477,Home & Kitchen,368.31,Out of Stock,Exchange only,This product is covered under our 1-year warranty.
+478,Product 478,Automotive,216.37,Available,Exchange only,This item is eligible for free returns within 30 days.
+479,Product 479,Sports,28.61,Out of Stock,No return,"For warranty details, contact our support team."
+480,Product 480,Beauty,46.78,Out of Stock,Exchange only,Shipping takes 5-7 business days.
+481,Product 481,Books,242.49,Available,30-day return,"For warranty details, contact our support team."
+482,Product 482,Automotive,64.77,Available,Exchange only,Shipping takes 5-7 business days.
+483,Product 483,Clothing,192.44,Available,Exchange only,This product is covered under our 1-year warranty.
+484,Product 484,Automotive,494.51,Available,No return,This product is covered under our 1-year warranty.
+485,Product 485,Books,423.14,Available,30-day return,This product is covered under our 1-year warranty.
+486,Product 486,Books,493.84,Available,Refund within 14 days,This item is eligible for free returns within 30 days.
+487,Product 487,Clothing,230.01,Available,30-day return,This product is covered under our 1-year warranty.
+488,Product 488,Books,493.37,Out of Stock,30-day return,This item is eligible for free returns within 30 days.
+489,Product 489,Books,287.53,Out of Stock,Exchange only,This product is covered under our 1-year warranty.
+490,Product 490,Books,52.65,Available,30-day return,"For warranty details, contact our support team."
+491,Product 491,Automotive,348.51,Available,No return,Shipping takes 5-7 business days.
+492,Product 492,Clothing,489.35,Out of Stock,Exchange only,"For warranty details, contact our support team."
+493,Product 493,Books,456.15,Out of Stock,Refund within 14 days,"For warranty details, contact our support team."
+494,Product 494,Home & Kitchen,32.05,Out of Stock,Refund within 14 days,This item is eligible for free returns within 30 days.
+495,Product 495,Home & Kitchen,285.07,Out of Stock,30-day return,"For installation assistance, check our user guide."
+496,Product 496,Toys,422.01,Available,Refund within 14 days,"For installation assistance, check our user guide."
+497,Product 497,Clothing,392.98,Available,Exchange only,This product is covered under our 1-year warranty.
+498,Product 498,Toys,57.79,Out of Stock,30-day return,"For installation assistance, check our user guide."
+499,Product 499,Electronics,235.98,Available,Refund within 14 days,"For warranty details, contact our support team."
+500,Product 500,Sports,299.37,Out of Stock,30-day return,Shipping takes 5-7 business days.
+501,Partner Expect,Books,887.6,Out of Stock,No returns,"For product-related queries, please check the product page or contact us via chat support."
+502,Knowledge Cause,Sports,589.74,Out of Stock,No returns,"For a refund, please provide proof of purchase and contact support@example.com."
+503,Reveal Class,Clothing,53.12,In Stock,30-day return,You can contact customer service at support@example.com for warranty inquiries.
+504,Set Fear,Beauty & Health,387.8,In Stock,No returns,Please visit our Returns page for details on returning your product.
+505,First Require,Toys,884.63,Out of Stock,Exchange only,"To track your order, please visit the 'My Orders' section of your account."
+506,Already Wish,Sports,356.99,Out of Stock,30-day return,You can contact customer service at support@example.com for warranty inquiries.
+507,Account Soldier,Electronics,259.85,In Stock,Exchange only,"To track your order, please visit the 'My Orders' section of your account."
+508,Difficult Miss,Beauty & Health,895.34,In Stock,No returns,We offer free shipping on orders over $50.
+509,Great Expert,Clothing,737.17,Out of Stock,30-day return,Please check the FAQ section for common troubleshooting steps.
+510,Poor Court,Clothing,589.4,Out of Stock,Exchange only,Please visit our Returns page for details on returning your product.
+511,Election Treatment,Home Appliances,143.9,In Stock,No returns,Please visit our Returns page for details on returning your product.
+512,Owner Long,Toys,32.81,Out of Stock,No returns,"For a refund, please provide proof of purchase and contact support@example.com."
+513,Guy Court,Home Appliances,114.04,In Stock,30-day return,"For a refund, please provide proof of purchase and contact support@example.com."
+514,Green Son,Furniture,920.52,In Stock,Exchange only,The product manual is available on the product page under 'Downloads'.
+515,Article Authority,Electronics,270.57,Out of Stock,No returns,We offer free shipping on orders over $50.
+516,Center Level,Home Appliances,763.01,In Stock,Exchange only,You can contact customer service at support@example.com for warranty inquiries.
+517,Result Actually,Books,76.55,In Stock,30-day return,"For a refund, please provide proof of purchase and contact support@example.com."
+518,Contain Point,Furniture,468.35,Out of Stock,Exchange only,We offer free shipping on orders over $50.
+519,Home Finish,Books,220.58,Out of Stock,Exchange only,"To track your order, please visit the 'My Orders' section of your account."
+520,Describe Professor,Sports,592.44,Out of Stock,Exchange only,"For a refund, please provide proof of purchase and contact support@example.com."
+521,Door Note,Furniture,771.18,In Stock,Exchange only,"For product-related queries, please check the product page or contact us via chat support."
+522,Manage General,Books,415.51,Out of Stock,30-day return,Please visit our Returns page for details on returning your product.
+523,Significant Laugh,Beauty & Health,552.78,Out of Stock,No returns,"To track your order, please visit the 'My Orders' section of your account."
+524,Life Yeah,Home Appliances,144.64,In Stock,No returns,We provide a 30-day return policy for most products. Check the product page for exceptions.
+525,Reveal Lose,Clothing,367.52,Out of Stock,30-day return,"To track your order, please visit the 'My Orders' section of your account."
+526,Into Raise,Home Appliances,755.58,Out of Stock,30-day return,Please check the FAQ section for common troubleshooting steps.
+527,Street Hope,Books,972.72,Out of Stock,30-day return,Please visit our Returns page for details on returning your product.
+528,Off Add,Beauty & Health,370.45,In Stock,No returns,"For product-related queries, please check the product page or contact us via chat support."
+529,Along By,Beauty & Health,803.51,In Stock,Exchange only,Please visit our Returns page for details on returning your product.
+530,Nearly Single,Sports,634.72,In Stock,No returns,We offer free shipping on orders over $50.
+531,Another Nature,Electronics,192.67,Out of Stock,30-day return,Please visit our Returns page for details on returning your product.
+532,Teach Ahead,Books,772.29,Out of Stock,30-day return,You can contact customer service at support@example.com for warranty inquiries.
+533,Use Number,Electronics,451.03,Out of Stock,Exchange only,You can contact customer service at support@example.com for warranty inquiries.
+534,Live Task,Furniture,962.23,Out of Stock,30-day return,"For a refund, please provide proof of purchase and contact support@example.com."
+535,Information Eat,Furniture,719.8,In Stock,No returns,We offer free shipping on orders over $50.
+536,Democrat Your,Furniture,742.41,In Stock,Exchange only,Please visit our Returns page for details on returning your product.
+537,Guess Body,Books,790.91,Out of Stock,No returns,Please visit our Returns page for details on returning your product.
+538,Do Control,Beauty & Health,64.31,Out of Stock,30-day return,We provide a 30-day return policy for most products. Check the product page for exceptions.
+539,Push Section,Clothing,112.35,Out of Stock,Exchange only,You can contact customer service at support@example.com for warranty inquiries.
+540,Surface Establish,Clothing,286.51,Out of Stock,30-day return,Please visit our Returns page for details on returning your product.
+541,Process My,Sports,832.78,In Stock,No returns,We offer free shipping on orders over $50.
+542,Prepare Body,Sports,466.87,Out of Stock,Exchange only,"For product-related queries, please check the product page or contact us via chat support."
+543,Write Produce,Clothing,787.92,Out of Stock,30-day return,Please visit our Returns page for details on returning your product.
+544,Into Air,Toys,371.83,Out of Stock,No returns,You can contact customer service at support@example.com for warranty inquiries.
+545,Finish Change,Sports,984.4,Out of Stock,Exchange only,"For a refund, please provide proof of purchase and contact support@example.com."
+546,Between Analysis,Electronics,258.51,Out of Stock,Exchange only,The product manual is available on the product page under 'Downloads'.
+547,Western Response,Clothing,175.06,In Stock,No returns,"To track your order, please visit the 'My Orders' section of your account."
+548,Of Include,Home Appliances,446.79,In Stock,30-day return,Please check the FAQ section for common troubleshooting steps.
+549,Moment Tax,Furniture,91.7,Out of Stock,No returns,We provide a 30-day return policy for most products. Check the product page for exceptions.
+550,Conference Population,Sports,412.7,In Stock,Exchange only,Please check the FAQ section for common troubleshooting steps.
+551,Yes Sit,Clothing,616.31,In Stock,No returns,The product manual is available on the product page under 'Downloads'.
+552,Address Kid,Furniture,186.53,Out of Stock,30-day return,"To track your order, please visit the 'My Orders' section of your account."
+553,Draw Book,Furniture,498.7,Out of Stock,Exchange only,"For product-related queries, please check the product page or contact us via chat support."
+554,Particularly Book,Home Appliances,648.32,In Stock,30-day return,You can contact customer service at support@example.com for warranty inquiries.
+555,Term Watch,Toys,216.29,In Stock,Exchange only,Please visit our Returns page for details on returning your product.
+556,Become Down,Books,993.07,Out of Stock,30-day return,The product manual is available on the product page under 'Downloads'.
+557,Game Production,Toys,831.52,Out of Stock,No returns,The product manual is available on the product page under 'Downloads'.
+558,Day Front,Electronics,994.52,Out of Stock,Exchange only,We provide a 30-day return policy for most products. Check the product page for exceptions.
+559,Strategy Whom,Electronics,118.65,In Stock,No returns,"To track your order, please visit the 'My Orders' section of your account."
+560,Present Likely,Electronics,722.31,Out of Stock,No returns,Please check the FAQ section for common troubleshooting steps.
+561,East Inside,Toys,953.68,Out of Stock,No returns,We provide a 30-day return policy for most products. Check the product page for exceptions.
+562,Drive Ahead,Home Appliances,413.17,In Stock,No returns,Please visit our Returns page for details on returning your product.
+563,Political Second,Clothing,614.22,Out of Stock,No returns,We provide a 30-day return policy for most products. Check the product page for exceptions.
+564,Well Produce,Furniture,921.49,Out of Stock,No returns,We offer free shipping on orders over $50.
+565,Large Play,Books,951.41,In Stock,No returns,We provide a 30-day return policy for most products. Check the product page for exceptions.
+566,Religious Do,Clothing,521.39,Out of Stock,Exchange only,Please check the FAQ section for common troubleshooting steps.
+567,Lose Company,Home Appliances,845.67,Out of Stock,Exchange only,"For a refund, please provide proof of purchase and contact support@example.com."
+568,Six Film,Clothing,507.62,Out of Stock,No returns,We provide a 30-day return policy for most products. Check the product page for exceptions.
+569,Positive Our,Sports,203.4,Out of Stock,30-day return,"For product-related queries, please check the product page or contact us via chat support."
+570,Process Technology,Home Appliances,608.1,In Stock,No returns,We provide a 30-day return policy for most products. Check the product page for exceptions.
+571,Around Value,Clothing,308.19,Out of Stock,Exchange only,We provide a 30-day return policy for most products. Check the product page for exceptions.
+572,Office Bed,Clothing,209.37,Out of Stock,No returns,Please check the FAQ section for common troubleshooting steps.
+573,Else Which,Toys,351.22,In Stock,Exchange only,Please check the FAQ section for common troubleshooting steps.
+574,Have Me,Electronics,735.77,In Stock,30-day return,Please visit our Returns page for details on returning your product.
+575,Middle Interview,Sports,551.91,Out of Stock,30-day return,"To track your order, please visit the 'My Orders' section of your account."
+576,Listen Contain,Clothing,713.52,In Stock,No returns,We provide a 30-day return policy for most products. Check the product page for exceptions.
+577,Think Nation,Toys,456,In Stock,Exchange only,Please check the FAQ section for common troubleshooting steps.
+578,Pattern Also,Clothing,115.39,Out of Stock,No returns,You can contact customer service at support@example.com for warranty inquiries.
+579,Technology Outside,Furniture,494.15,Out of Stock,Exchange only,We provide a 30-day return policy for most products. Check the product page for exceptions.
+580,Occur Receive,Toys,482.93,Out of Stock,Exchange only,"To track your order, please visit the 'My Orders' section of your account."
+581,Ago Wall,Electronics,746.64,In Stock,Exchange only,Please visit our Returns page for details on returning your product.
+582,That Computer,Books,816.82,Out of Stock,30-day return,"For product-related queries, please check the product page or contact us via chat support."
+583,Inside Training,Books,941.32,Out of Stock,No returns,Please check the FAQ section for common troubleshooting steps.
+584,Arm Bed,Beauty & Health,794.74,Out of Stock,30-day return,Please check the FAQ section for common troubleshooting steps.
+585,Past Million,Sports,479.71,In Stock,Exchange only,Please visit our Returns page for details on returning your product.
+586,Traditional Responsibility,Books,592.44,In Stock,30-day return,We provide a 30-day return policy for most products. Check the product page for exceptions.
+587,Happy Cause,Clothing,900.7,Out of Stock,Exchange only,You can contact customer service at support@example.com for warranty inquiries.
+588,Machine Show,Beauty & Health,142.68,Out of Stock,30-day return,The product manual is available on the product page under 'Downloads'.
+589,Response Watch,Sports,386.15,In Stock,No returns,We provide a 30-day return policy for most products. Check the product page for exceptions.
+590,International Read,Electronics,421.85,In Stock,No returns,We offer free shipping on orders over $50.
+591,End Generation,Toys,544.8,In Stock,No returns,"To track your order, please visit the 'My Orders' section of your account."
+592,Argue Over,Electronics,299.81,In Stock,Exchange only,"For a refund, please provide proof of purchase and contact support@example.com."
+593,Cut Land,Toys,538.88,In Stock,30-day return,Please check the FAQ section for common troubleshooting steps.
+594,Growth At,Sports,210.38,Out of Stock,30-day return,"To track your order, please visit the 'My Orders' section of your account."
+595,Almost Ahead,Furniture,556.62,In Stock,30-day return,Please check the FAQ section for common troubleshooting steps.
+596,Attention South,Books,125.3,Out of Stock,Exchange only,We provide a 30-day return policy for most products. Check the product page for exceptions.
+597,Strategy Her,Furniture,573.15,In Stock,30-day return,The product manual is available on the product page under 'Downloads'.
+598,Security Offer,Sports,866.37,In Stock,30-day return,Please visit our Returns page for details on returning your product.
+599,Local Conference,Toys,25.22,Out of Stock,Exchange only,You can contact customer service at support@example.com for warranty inquiries.
+600,Effect Have,Clothing,884.61,Out of Stock,Exchange only,You can contact customer service at support@example.com for warranty inquiries.
+601,Today Field,Furniture,547.76,In Stock,30-day return,Please visit our Returns page for details on returning your product.
+602,Issue Travel,Toys,189.07,Out of Stock,30-day return,"To track your order, please visit the 'My Orders' section of your account."
+603,Wonder Property,Beauty & Health,52.72,Out of Stock,No returns,You can contact customer service at support@example.com for warranty inquiries.
+604,Level Peace,Home Appliances,945.87,Out of Stock,No returns,Please visit our Returns page for details on returning your product.
+605,Imagine Let,Sports,320.18,Out of Stock,30-day return,You can contact customer service at support@example.com for warranty inquiries.
+606,List Summer,Furniture,943.77,In Stock,30-day return,The product manual is available on the product page under 'Downloads'.
+607,Others Bag,Toys,598.44,Out of Stock,No returns,Please check the FAQ section for common troubleshooting steps.
+608,Indicate Behavior,Electronics,745.05,Out of Stock,Exchange only,We offer free shipping on orders over $50.
+609,Young Recent,Clothing,142.84,In Stock,30-day return,Please visit our Returns page for details on returning your product.
+610,Rather Deal,Clothing,160.33,In Stock,30-day return,"For product-related queries, please check the product page or contact us via chat support."
+611,Behavior Hear,Electronics,831.26,Out of Stock,30-day return,"For product-related queries, please check the product page or contact us via chat support."
+612,Ask Attention,Sports,325.47,In Stock,30-day return,"For product-related queries, please check the product page or contact us via chat support."
+613,Article This,Furniture,724.39,Out of Stock,Exchange only,The product manual is available on the product page under 'Downloads'.
+614,Note Above,Home Appliances,951.18,Out of Stock,30-day return,The product manual is available on the product page under 'Downloads'.
+615,Evening That,Sports,764.26,Out of Stock,Exchange only,"For product-related queries, please check the product page or contact us via chat support."
+616,School Only,Beauty & Health,901.29,In Stock,30-day return,We offer free shipping on orders over $50.
+617,Money Career,Beauty & Health,314.39,In Stock,30-day return,"For product-related queries, please check the product page or contact us via chat support."
+618,Happy Catch,Electronics,434.46,Out of Stock,Exchange only,Please check the FAQ section for common troubleshooting steps.
+619,Old Begin,Books,563.26,In Stock,No returns,We offer free shipping on orders over $50.
+620,Buy Guy,Beauty & Health,121.24,In Stock,Exchange only,Please check the FAQ section for common troubleshooting steps.
+621,Mouth Common,Toys,485.96,Out of Stock,Exchange only,"For a refund, please provide proof of purchase and contact support@example.com."
+622,Too Threat,Furniture,971.07,In Stock,30-day return,"For product-related queries, please check the product page or contact us via chat support."
+623,Artist Five,Furniture,168.71,Out of Stock,No returns,"For a refund, please provide proof of purchase and contact support@example.com."
+624,Movie Thought,Furniture,660.73,In Stock,30-day return,You can contact customer service at support@example.com for warranty inquiries.
+625,Example Building,Electronics,434,In Stock,30-day return,"To track your order, please visit the 'My Orders' section of your account."
+626,Eight Treatment,Toys,505.06,In Stock,No returns,Please visit our Returns page for details on returning your product.
+627,Result Degree,Books,207.38,Out of Stock,Exchange only,"For a refund, please provide proof of purchase and contact support@example.com."
+628,Always Letter,Electronics,816.68,In Stock,30-day return,Please visit our Returns page for details on returning your product.
+629,Only Although,Books,664.81,Out of Stock,30-day return,Please check the FAQ section for common troubleshooting steps.
+630,Small Team,Furniture,736.23,In Stock,Exchange only,The product manual is available on the product page under 'Downloads'.
+631,Away Response,Toys,138.27,Out of Stock,Exchange only,We provide a 30-day return policy for most products. Check the product page for exceptions.
+632,Live Common,Sports,511.06,In Stock,Exchange only,We provide a 30-day return policy for most products. Check the product page for exceptions.
+633,Impact Tend,Furniture,268.02,Out of Stock,Exchange only,You can contact customer service at support@example.com for warranty inquiries.
+634,Food Way,Clothing,366.01,Out of Stock,No returns,Please check the FAQ section for common troubleshooting steps.
+635,These Really,Books,83.79,In Stock,30-day return,We provide a 30-day return policy for most products. Check the product page for exceptions.
+636,Public Throw,Electronics,559.92,In Stock,30-day return,"For a refund, please provide proof of purchase and contact support@example.com."
+637,Get There,Toys,586.07,Out of Stock,Exchange only,"For product-related queries, please check the product page or contact us via chat support."
+638,Outside Success,Beauty & Health,404.57,In Stock,Exchange only,"To track your order, please visit the 'My Orders' section of your account."
+639,Approach Cup,Clothing,977.62,Out of Stock,No returns,We provide a 30-day return policy for most products. Check the product page for exceptions.
+640,Kind Recent,Home Appliances,554.6,In Stock,30-day return,"To track your order, please visit the 'My Orders' section of your account."
+641,Protect Possible,Toys,361.22,In Stock,30-day return,Please visit our Returns page for details on returning your product.
+642,Economy Consider,Electronics,289.29,In Stock,Exchange only,"For a refund, please provide proof of purchase and contact support@example.com."
+643,Set Wish,Toys,380.05,Out of Stock,No returns,The product manual is available on the product page under 'Downloads'.
+644,Church Must,Toys,752.03,Out of Stock,No returns,You can contact customer service at support@example.com for warranty inquiries.
+645,Stuff Model,Sports,177.55,In Stock,30-day return,You can contact customer service at support@example.com for warranty inquiries.
+646,Human Sit,Furniture,506.89,In Stock,Exchange only,You can contact customer service at support@example.com for warranty inquiries.
+647,Compare Group,Toys,237.73,In Stock,Exchange only,"To track your order, please visit the 'My Orders' section of your account."
+648,National Hear,Electronics,291.18,Out of Stock,30-day return,"To track your order, please visit the 'My Orders' section of your account."
+649,Protect Spend,Beauty & Health,824.09,In Stock,No returns,Please check the FAQ section for common troubleshooting steps.
+650,Population Table,Electronics,720.16,Out of Stock,No returns,Please check the FAQ section for common troubleshooting steps.
+651,Skin Skill,Books,783.39,In Stock,Exchange only,We provide a 30-day return policy for most products. Check the product page for exceptions.
+652,Sure Response,Books,307.97,In Stock,30-day return,Please check the FAQ section for common troubleshooting steps.
+653,Later Break,Electronics,452.51,In Stock,30-day return,"To track your order, please visit the 'My Orders' section of your account."
+654,Develop Yourself,Sports,311.01,Out of Stock,Exchange only,"For product-related queries, please check the product page or contact us via chat support."
+655,First Medical,Home Appliances,291.53,Out of Stock,30-day return,You can contact customer service at support@example.com for warranty inquiries.
+656,Only Line,Furniture,632.31,In Stock,No returns,We offer free shipping on orders over $50.
+657,Political Usually,Home Appliances,352.85,In Stock,30-day return,We provide a 30-day return policy for most products. Check the product page for exceptions.
+658,None Air,Clothing,926.87,In Stock,No returns,The product manual is available on the product page under 'Downloads'.
+659,On Officer,Clothing,944.23,Out of Stock,No returns,You can contact customer service at support@example.com for warranty inquiries.
+660,Tend Other,Electronics,323.66,In Stock,Exchange only,Please visit our Returns page for details on returning your product.
+661,Discover Prevent,Electronics,302.59,In Stock,No returns,We provide a 30-day return policy for most products. Check the product page for exceptions.
+662,Indeed Particular,Home Appliances,109.93,In Stock,No returns,Please check the FAQ section for common troubleshooting steps.
+663,Yeah Future,Furniture,999.72,Out of Stock,Exchange only,Please visit our Returns page for details on returning your product.
+664,Keep We,Furniture,965.68,In Stock,Exchange only,"For a refund, please provide proof of purchase and contact support@example.com."
+665,Appear Standard,Toys,986.35,Out of Stock,Exchange only,"For a refund, please provide proof of purchase and contact support@example.com."
+666,Authority Night,Clothing,762.96,In Stock,30-day return,The product manual is available on the product page under 'Downloads'.
+667,Reduce Something,Toys,795.53,Out of Stock,30-day return,"For product-related queries, please check the product page or contact us via chat support."
+668,Name Structure,Electronics,299.37,Out of Stock,No returns,The product manual is available on the product page under 'Downloads'.
+669,Charge Throw,Furniture,235.38,Out of Stock,Exchange only,"For a refund, please provide proof of purchase and contact support@example.com."
+670,Rock Hotel,Books,40.78,In Stock,Exchange only,Please check the FAQ section for common troubleshooting steps.
+671,Probably Plan,Books,258.43,In Stock,30-day return,Please visit our Returns page for details on returning your product.
+672,Sister Field,Toys,901.21,In Stock,30-day return,You can contact customer service at support@example.com for warranty inquiries.
+673,Director Yard,Home Appliances,817.12,In Stock,30-day return,Please check the FAQ section for common troubleshooting steps.
+674,Result The,Home Appliances,490.83,Out of Stock,Exchange only,"For a refund, please provide proof of purchase and contact support@example.com."
+675,Section Identify,Toys,519.01,Out of Stock,30-day return,We provide a 30-day return policy for most products. Check the product page for exceptions.
+676,Upon Majority,Home Appliances,650.9,Out of Stock,No returns,"For a refund, please provide proof of purchase and contact support@example.com."
+677,Sport Point,Sports,663.67,Out of Stock,Exchange only,We offer free shipping on orders over $50.
+678,As View,Toys,953.5,In Stock,30-day return,You can contact customer service at support@example.com for warranty inquiries.
+679,Remember Land,Furniture,916.1,In Stock,Exchange only,"For a refund, please provide proof of purchase and contact support@example.com."
+680,Author Phone,Furniture,462.57,In Stock,Exchange only,The product manual is available on the product page under 'Downloads'.
+681,Particular Yourself,Sports,938.24,Out of Stock,30-day return,We offer free shipping on orders over $50.
+682,Argue Friend,Toys,211.56,Out of Stock,Exchange only,We offer free shipping on orders over $50.
+683,Car Audience,Toys,660.11,In Stock,No returns,"For a refund, please provide proof of purchase and contact support@example.com."
+684,Imagine Instead,Books,183.27,In Stock,30-day return,"For product-related queries, please check the product page or contact us via chat support."
+685,Treat Positive,Toys,180.43,In Stock,30-day return,Please visit our Returns page for details on returning your product.
+686,Forward Shake,Clothing,654.45,Out of Stock,Exchange only,We provide a 30-day return policy for most products. Check the product page for exceptions.
+687,Marriage Per,Toys,974.97,In Stock,30-day return,You can contact customer service at support@example.com for warranty inquiries.
+688,Cost Party,Toys,615.17,Out of Stock,No returns,Please check the FAQ section for common troubleshooting steps.
+689,Go See,Sports,916.49,In Stock,30-day return,We offer free shipping on orders over $50.
+690,Easy Blue,Furniture,436.35,Out of Stock,No returns,We provide a 30-day return policy for most products. Check the product page for exceptions.
+691,Task Yes,Furniture,449.92,Out of Stock,Exchange only,You can contact customer service at support@example.com for warranty inquiries.
+692,Result Than,Clothing,293.37,In Stock,No returns,"For a refund, please provide proof of purchase and contact support@example.com."
+693,Add For,Books,861.72,In Stock,Exchange only,The product manual is available on the product page under 'Downloads'.
+694,Drug Amount,Clothing,568.21,In Stock,Exchange only,Please visit our Returns page for details on returning your product.
+695,Office Recently,Electronics,79.66,In Stock,30-day return,Please visit our Returns page for details on returning your product.
+696,Bit Approach,Toys,956.54,Out of Stock,30-day return,"For product-related queries, please check the product page or contact us via chat support."
+697,Trip Which,Home Appliances,17.57,Out of Stock,No returns,"For a refund, please provide proof of purchase and contact support@example.com."
+698,Big Heart,Toys,103.36,In Stock,No returns,Please visit our Returns page for details on returning your product.
+699,Drop Door,Furniture,167.68,Out of Stock,No returns,You can contact customer service at support@example.com for warranty inquiries.
+700,Require Check,Clothing,111.11,Out of Stock,30-day return,We provide a 30-day return policy for most products. Check the product page for exceptions.
+701,Language Charge,Beauty & Health,434.6,Out of Stock,No returns,Please check the FAQ section for common troubleshooting steps.
+702,Life Newspaper,Beauty & Health,120.39,In Stock,Exchange only,We provide a 30-day return policy for most products. Check the product page for exceptions.
+703,Reveal Together,Clothing,289.53,Out of Stock,30-day return,We provide a 30-day return policy for most products. Check the product page for exceptions.
+704,Meet Course,Clothing,651.58,In Stock,Exchange only,Please visit our Returns page for details on returning your product.
+705,Activity Career,Sports,770.23,In Stock,Exchange only,Please check the FAQ section for common troubleshooting steps.
+706,Focus Early,Home Appliances,759.99,In Stock,30-day return,We provide a 30-day return policy for most products. Check the product page for exceptions.
+707,Set Air,Beauty & Health,537.19,In Stock,Exchange only,"For product-related queries, please check the product page or contact us via chat support."
+708,Claim Leave,Books,228.17,Out of Stock,30-day return,Please visit our Returns page for details on returning your product.
+709,Brother Marriage,Clothing,450.9,Out of Stock,No returns,We provide a 30-day return policy for most products. Check the product page for exceptions.
+710,Home Have,Clothing,903.16,In Stock,Exchange only,Please visit our Returns page for details on returning your product.
+711,Marriage Interest,Sports,493.55,In Stock,Exchange only,Please visit our Returns page for details on returning your product.
+712,Full Eight,Beauty & Health,922.51,In Stock,No returns,Please check the FAQ section for common troubleshooting steps.
+713,Recently Black,Beauty & Health,892.59,In Stock,No returns,Please check the FAQ section for common troubleshooting steps.
+714,Morning Safe,Clothing,775.96,In Stock,No returns,You can contact customer service at support@example.com for warranty inquiries.
+715,Painting War,Home Appliances,136.63,Out of Stock,Exchange only,"For a refund, please provide proof of purchase and contact support@example.com."
+716,Reveal Fact,Home Appliances,454.19,Out of Stock,30-day return,"To track your order, please visit the 'My Orders' section of your account."
+717,Rise Here,Home Appliances,445.92,Out of Stock,No returns,"To track your order, please visit the 'My Orders' section of your account."
+718,Baby Window,Toys,474.77,Out of Stock,Exchange only,"For product-related queries, please check the product page or contact us via chat support."
+719,American Thus,Clothing,367.8,Out of Stock,No returns,Please check the FAQ section for common troubleshooting steps.
+720,Against Candidate,Toys,255.43,Out of Stock,No returns,You can contact customer service at support@example.com for warranty inquiries.
+721,Compare With,Toys,458.02,Out of Stock,30-day return,"For a refund, please provide proof of purchase and contact support@example.com."
+722,Most Claim,Electronics,764.71,In Stock,Exchange only,The product manual is available on the product page under 'Downloads'.
+723,Natural Management,Home Appliances,246.67,Out of Stock,30-day return,"To track your order, please visit the 'My Orders' section of your account."
+724,Beautiful Father,Books,344.85,In Stock,30-day return,The product manual is available on the product page under 'Downloads'.
+725,Article Despite,Beauty & Health,543.23,In Stock,Exchange only,The product manual is available on the product page under 'Downloads'.
+726,Sit Candidate,Beauty & Health,164.58,Out of Stock,30-day return,"For product-related queries, please check the product page or contact us via chat support."
+727,Soon Building,Home Appliances,800.24,In Stock,No returns,The product manual is available on the product page under 'Downloads'.
+728,Already Culture,Furniture,411.31,In Stock,Exchange only,Please visit our Returns page for details on returning your product.
+729,Body Station,Sports,675.07,In Stock,No returns,Please check the FAQ section for common troubleshooting steps.
+730,Fear Stage,Beauty & Health,83.96,In Stock,Exchange only,"To track your order, please visit the 'My Orders' section of your account."
+731,Surface Human,Toys,785.01,In Stock,Exchange only,We offer free shipping on orders over $50.
+732,Production Newspaper,Electronics,691.45,In Stock,Exchange only,Please check the FAQ section for common troubleshooting steps.
+733,Available Happen,Furniture,668.18,In Stock,No returns,Please check the FAQ section for common troubleshooting steps.
+734,Star Look,Home Appliances,497.04,Out of Stock,No returns,Please visit our Returns page for details on returning your product.
+735,Other Despite,Beauty & Health,715.86,In Stock,Exchange only,The product manual is available on the product page under 'Downloads'.
+736,Respond Much,Home Appliances,196.27,Out of Stock,30-day return,You can contact customer service at support@example.com for warranty inquiries.
+737,Group Peace,Beauty & Health,651.1,In Stock,Exchange only,"To track your order, please visit the 'My Orders' section of your account."
+738,Amount Occur,Furniture,183.1,In Stock,No returns,"To track your order, please visit the 'My Orders' section of your account."
+739,Population Local,Toys,74.8,Out of Stock,No returns,We offer free shipping on orders over $50.
+740,News Strong,Home Appliances,996.49,In Stock,No returns,We offer free shipping on orders over $50.
+741,Then Old,Clothing,628.58,In Stock,No returns,"For product-related queries, please check the product page or contact us via chat support."
+742,Director Matter,Clothing,572.86,In Stock,30-day return,We provide a 30-day return policy for most products. Check the product page for exceptions.
+743,Good Today,Sports,953.39,Out of Stock,30-day return,Please visit our Returns page for details on returning your product.
+744,Tend Paper,Electronics,930.21,In Stock,Exchange only,"To track your order, please visit the 'My Orders' section of your account."
+745,Successful Not,Sports,791.82,Out of Stock,30-day return,You can contact customer service at support@example.com for warranty inquiries.
+746,Could Become,Electronics,369.62,In Stock,30-day return,"For product-related queries, please check the product page or contact us via chat support."
+747,Second Beyond,Clothing,273.72,Out of Stock,30-day return,"For product-related queries, please check the product page or contact us via chat support."
+748,Financial Radio,Sports,625.65,In Stock,30-day return,We offer free shipping on orders over $50.
+749,Understand Education,Toys,794.17,Out of Stock,30-day return,"For product-related queries, please check the product page or contact us via chat support."
+750,Eat Argue,Sports,294.19,In Stock,30-day return,"For a refund, please provide proof of purchase and contact support@example.com."
+751,Support Third,Books,599.15,In Stock,No returns,Please visit our Returns page for details on returning your product.
+752,Action Consumer,Home Appliances,757,Out of Stock,No returns,The product manual is available on the product page under 'Downloads'.
+753,Like Federal,Beauty & Health,546.85,In Stock,30-day return,"For a refund, please provide proof of purchase and contact support@example.com."
+754,Fish Station,Sports,464.44,In Stock,30-day return,"For a refund, please provide proof of purchase and contact support@example.com."
+755,Shake Figure,Clothing,242.63,Out of Stock,30-day return,Please visit our Returns page for details on returning your product.
+756,Worry The,Sports,68.24,In Stock,Exchange only,"For product-related queries, please check the product page or contact us via chat support."
+757,Father Check,Clothing,85.27,Out of Stock,Exchange only,"To track your order, please visit the 'My Orders' section of your account."
+758,Image Law,Electronics,842.89,In Stock,No returns,"For product-related queries, please check the product page or contact us via chat support."
+759,Lay Film,Electronics,458.36,In Stock,Exchange only,"For a refund, please provide proof of purchase and contact support@example.com."
+760,Leader Think,Electronics,455.11,Out of Stock,30-day return,"For product-related queries, please check the product page or contact us via chat support."
+761,Machine Cover,Beauty & Health,987.39,In Stock,Exchange only,You can contact customer service at support@example.com for warranty inquiries.
+762,Peace Quality,Clothing,51.97,In Stock,30-day return,Please visit our Returns page for details on returning your product.
+763,Hospital Everything,Beauty & Health,828.68,Out of Stock,No returns,Please visit our Returns page for details on returning your product.
+764,None Me,Beauty & Health,823.52,Out of Stock,30-day return,The product manual is available on the product page under 'Downloads'.
+765,These Change,Books,836.43,Out of Stock,Exchange only,"To track your order, please visit the 'My Orders' section of your account."
+766,Happen Create,Books,87.97,Out of Stock,30-day return,We provide a 30-day return policy for most products. Check the product page for exceptions.
+767,I Century,Sports,45.64,In Stock,30-day return,Please check the FAQ section for common troubleshooting steps.
+768,Learn Series,Sports,293.85,Out of Stock,30-day return,"To track your order, please visit the 'My Orders' section of your account."
+769,Technology Ball,Furniture,923.17,Out of Stock,30-day return,Please visit our Returns page for details on returning your product.
+770,Friend General,Beauty & Health,948.63,In Stock,No returns,"To track your order, please visit the 'My Orders' section of your account."
+771,Charge Fine,Beauty & Health,506.82,In Stock,30-day return,"For a refund, please provide proof of purchase and contact support@example.com."
+772,Use Population,Home Appliances,843.44,Out of Stock,30-day return,We offer free shipping on orders over $50.
+773,Government Condition,Clothing,298.21,Out of Stock,Exchange only,Please visit our Returns page for details on returning your product.
+774,Dinner System,Home Appliances,217.42,In Stock,No returns,"For a refund, please provide proof of purchase and contact support@example.com."
+775,Finish Kind,Toys,623.15,Out of Stock,30-day return,Please check the FAQ section for common troubleshooting steps.
+776,Significant Board,Electronics,562.68,In Stock,Exchange only,Please check the FAQ section for common troubleshooting steps.
+777,Hit Range,Toys,826.38,Out of Stock,30-day return,We offer free shipping on orders over $50.
+778,When Detail,Books,304.07,In Stock,Exchange only,You can contact customer service at support@example.com for warranty inquiries.
+779,Vote Though,Home Appliances,433.68,Out of Stock,Exchange only,Please check the FAQ section for common troubleshooting steps.
+780,Check Alone,Home Appliances,755.88,In Stock,Exchange only,You can contact customer service at support@example.com for warranty inquiries.
+781,Player Worry,Home Appliances,494.62,Out of Stock,No returns,The product manual is available on the product page under 'Downloads'.
+782,Money Break,Sports,544.61,In Stock,30-day return,Please check the FAQ section for common troubleshooting steps.
+783,First Event,Electronics,124.38,In Stock,30-day return,You can contact customer service at support@example.com for warranty inquiries.
+784,Great Sure,Sports,670.11,Out of Stock,No returns,Please visit our Returns page for details on returning your product.
+785,Leader Ever,Clothing,63.86,Out of Stock,No returns,"For a refund, please provide proof of purchase and contact support@example.com."
+786,Democratic Too,Electronics,168.52,Out of Stock,No returns,"For product-related queries, please check the product page or contact us via chat support."
+787,After Action,Home Appliances,127.89,Out of Stock,No returns,We offer free shipping on orders over $50.
+788,Morning Play,Furniture,130.06,Out of Stock,No returns,The product manual is available on the product page under 'Downloads'.
+789,Old Standard,Home Appliances,415.94,In Stock,30-day return,Please visit our Returns page for details on returning your product.
+790,Evidence Visit,Books,316.33,Out of Stock,30-day return,"To track your order, please visit the 'My Orders' section of your account."
+791,Environmental Community,Sports,960.28,In Stock,No returns,Please check the FAQ section for common troubleshooting steps.
+792,Effort Perhaps,Clothing,229.66,Out of Stock,No returns,"To track your order, please visit the 'My Orders' section of your account."
+793,Black Account,Home Appliances,106.25,Out of Stock,Exchange only,Please visit our Returns page for details on returning your product.
+794,Deep Nation,Toys,424.75,Out of Stock,Exchange only,"For a refund, please provide proof of purchase and contact support@example.com."
+795,Whether Short,Books,49.63,Out of Stock,30-day return,Please visit our Returns page for details on returning your product.
+796,Around Call,Books,726.83,Out of Stock,30-day return,"For a refund, please provide proof of purchase and contact support@example.com."
+797,Pay Rate,Electronics,381.11,Out of Stock,30-day return,We provide a 30-day return policy for most products. Check the product page for exceptions.
+798,Size Deep,Toys,465.44,Out of Stock,30-day return,You can contact customer service at support@example.com for warranty inquiries.
+799,Own Same,Books,47.59,Out of Stock,No returns,Please check the FAQ section for common troubleshooting steps.
+800,Scientist Pull,Clothing,838.95,Out of Stock,30-day return,Please check the FAQ section for common troubleshooting steps.
+801,Main Sing,Beauty & Health,929.73,In Stock,No returns,"For a refund, please provide proof of purchase and contact support@example.com."
+802,Concern Mouth,Beauty & Health,577.35,Out of Stock,Exchange only,We provide a 30-day return policy for most products. Check the product page for exceptions.
+803,Speak Quickly,Electronics,18.6,In Stock,30-day return,We offer free shipping on orders over $50.
+804,Yeah Heart,Sports,428.85,Out of Stock,No returns,Please visit our Returns page for details on returning your product.
+805,Check Little,Sports,697.01,In Stock,Exchange only,You can contact customer service at support@example.com for warranty inquiries.
+806,Treatment Like,Beauty & Health,598.4,Out of Stock,30-day return,"For product-related queries, please check the product page or contact us via chat support."
+807,Practice Firm,Beauty & Health,115.27,Out of Stock,30-day return,"To track your order, please visit the 'My Orders' section of your account."
+808,Military Hot,Toys,567.12,Out of Stock,No returns,The product manual is available on the product page under 'Downloads'.
+809,Research Mr,Clothing,170.93,In Stock,No returns,"To track your order, please visit the 'My Orders' section of your account."
+810,Trial Example,Beauty & Health,701.38,In Stock,30-day return,"For product-related queries, please check the product page or contact us via chat support."
+811,Gas Ago,Beauty & Health,464.55,Out of Stock,No returns,Please visit our Returns page for details on returning your product.
+812,Question Ground,Clothing,324.07,In Stock,No returns,We offer free shipping on orders over $50.
+813,Church Media,Electronics,532.15,Out of Stock,30-day return,"To track your order, please visit the 'My Orders' section of your account."
+814,Film Could,Toys,734.97,Out of Stock,30-day return,"For a refund, please provide proof of purchase and contact support@example.com."
+815,History Pull,Furniture,841.94,In Stock,Exchange only,The product manual is available on the product page under 'Downloads'.
+816,Ability We,Beauty & Health,751.76,In Stock,No returns,We provide a 30-day return policy for most products. Check the product page for exceptions.
+817,Defense Begin,Sports,577.45,Out of Stock,30-day return,The product manual is available on the product page under 'Downloads'.
+818,Benefit Small,Beauty & Health,421.21,Out of Stock,Exchange only,The product manual is available on the product page under 'Downloads'.
+819,System Sister,Sports,312.45,Out of Stock,Exchange only,"To track your order, please visit the 'My Orders' section of your account."
+820,Guy Page,Beauty & Health,328.25,Out of Stock,30-day return,"For product-related queries, please check the product page or contact us via chat support."
+821,Management Learn,Electronics,546.15,In Stock,No returns,You can contact customer service at support@example.com for warranty inquiries.
+822,Yes Middle,Furniture,493.52,In Stock,30-day return,You can contact customer service at support@example.com for warranty inquiries.
+823,Data Still,Beauty & Health,811.33,In Stock,30-day return,Please check the FAQ section for common troubleshooting steps.
+824,Perform Individual,Sports,988.12,Out of Stock,30-day return,We provide a 30-day return policy for most products. Check the product page for exceptions.
+825,With Ready,Electronics,516.3,In Stock,No returns,You can contact customer service at support@example.com for warranty inquiries.
+826,Can Camera,Clothing,31.86,In Stock,Exchange only,"For product-related queries, please check the product page or contact us via chat support."
+827,Receive Message,Beauty & Health,241.81,Out of Stock,Exchange only,Please visit our Returns page for details on returning your product.
+828,Establish Happen,Furniture,353.27,In Stock,No returns,"For a refund, please provide proof of purchase and contact support@example.com."
+829,Thousand Former,Clothing,975.51,Out of Stock,Exchange only,"For product-related queries, please check the product page or contact us via chat support."
+830,Place Truth,Toys,910.95,In Stock,30-day return,The product manual is available on the product page under 'Downloads'.
+831,Center Home,Clothing,296.38,Out of Stock,Exchange only,Please visit our Returns page for details on returning your product.
+832,Why Cover,Books,309.42,In Stock,Exchange only,The product manual is available on the product page under 'Downloads'.
+833,While Reality,Books,846.77,In Stock,30-day return,The product manual is available on the product page under 'Downloads'.
+834,Commercial Class,Home Appliances,891.54,In Stock,No returns,We offer free shipping on orders over $50.
+835,Issue Charge,Books,266.92,Out of Stock,30-day return,"For product-related queries, please check the product page or contact us via chat support."
+836,Culture Themselves,Sports,193.1,Out of Stock,Exchange only,Please visit our Returns page for details on returning your product.
+837,Use Can,Electronics,89.14,Out of Stock,30-day return,We offer free shipping on orders over $50.
+838,Central Place,Beauty & Health,256.9,Out of Stock,No returns,Please visit our Returns page for details on returning your product.
+839,Inside Also,Furniture,428.24,Out of Stock,Exchange only,Please check the FAQ section for common troubleshooting steps.
+840,Herself Partner,Books,599.97,Out of Stock,30-day return,"For a refund, please provide proof of purchase and contact support@example.com."
+841,Already Rate,Beauty & Health,788.02,In Stock,Exchange only,Please check the FAQ section for common troubleshooting steps.
+842,Cut Point,Clothing,20.37,Out of Stock,Exchange only,We provide a 30-day return policy for most products. Check the product page for exceptions.
+843,Week Shake,Clothing,45.49,In Stock,No returns,We offer free shipping on orders over $50.
+844,Child Describe,Books,754.34,In Stock,No returns,"For a refund, please provide proof of purchase and contact support@example.com."
+845,Music Hotel,Beauty & Health,424.27,Out of Stock,No returns,You can contact customer service at support@example.com for warranty inquiries.
+846,Agreement Respond,Books,819.91,Out of Stock,Exchange only,"For a refund, please provide proof of purchase and contact support@example.com."
+847,Ever Important,Beauty & Health,333.72,In Stock,Exchange only,Please visit our Returns page for details on returning your product.
+848,Level Measure,Toys,327.97,In Stock,No returns,"For a refund, please provide proof of purchase and contact support@example.com."
+849,Husband Some,Furniture,255.19,In Stock,30-day return,You can contact customer service at support@example.com for warranty inquiries.
+850,Treatment Prove,Sports,367.85,In Stock,No returns,"To track your order, please visit the 'My Orders' section of your account."
+851,Pull Focus,Clothing,704.72,In Stock,No returns,You can contact customer service at support@example.com for warranty inquiries.
+852,Ever Pattern,Electronics,770.68,Out of Stock,Exchange only,You can contact customer service at support@example.com for warranty inquiries.
+853,Design Together,Home Appliances,577.16,Out of Stock,Exchange only,We provide a 30-day return policy for most products. Check the product page for exceptions.
+854,Movement Decade,Furniture,697.83,In Stock,30-day return,"For a refund, please provide proof of purchase and contact support@example.com."
+855,Property Must,Toys,651.1,In Stock,Exchange only,"For product-related queries, please check the product page or contact us via chat support."
+856,Their Off,Electronics,298.56,Out of Stock,No returns,You can contact customer service at support@example.com for warranty inquiries.
+857,Visit Travel,Beauty & Health,603.75,In Stock,30-day return,The product manual is available on the product page under 'Downloads'.
+858,Rule Seven,Home Appliances,488.54,In Stock,Exchange only,We offer free shipping on orders over $50.
+859,Most Enough,Toys,677.51,In Stock,Exchange only,We provide a 30-day return policy for most products. Check the product page for exceptions.
+860,Billion Smile,Electronics,340.44,Out of Stock,Exchange only,We provide a 30-day return policy for most products. Check the product page for exceptions.
+861,Get Leave,Furniture,559.99,Out of Stock,No returns,The product manual is available on the product page under 'Downloads'.
+862,Ground Six,Sports,482.16,Out of Stock,No returns,We provide a 30-day return policy for most products. Check the product page for exceptions.
+863,Grow Investment,Home Appliances,951.18,In Stock,30-day return,The product manual is available on the product page under 'Downloads'.
+864,Region Show,Clothing,374.82,Out of Stock,No returns,"For product-related queries, please check the product page or contact us via chat support."
+865,Ready During,Toys,561.04,In Stock,30-day return,Please visit our Returns page for details on returning your product.
+866,Film Current,Home Appliances,161.66,Out of Stock,No returns,The product manual is available on the product page under 'Downloads'.
+867,View Lot,Home Appliances,434.26,Out of Stock,30-day return,You can contact customer service at support@example.com for warranty inquiries.
+868,Per Kind,Toys,952.33,Out of Stock,No returns,We offer free shipping on orders over $50.
+869,Before At,Home Appliances,450.14,In Stock,No returns,"For a refund, please provide proof of purchase and contact support@example.com."
+870,Town Security,Sports,75.43,In Stock,No returns,Please check the FAQ section for common troubleshooting steps.
+871,Policy Agreement,Books,341.84,Out of Stock,30-day return,"For a refund, please provide proof of purchase and contact support@example.com."
+872,Person Structure,Books,80.82,Out of Stock,Exchange only,Please visit our Returns page for details on returning your product.
+873,Stuff Though,Electronics,823.79,In Stock,30-day return,We offer free shipping on orders over $50.
+874,Become Never,Furniture,44.79,In Stock,Exchange only,The product manual is available on the product page under 'Downloads'.
+875,Note Newspaper,Clothing,35.37,In Stock,30-day return,"For a refund, please provide proof of purchase and contact support@example.com."
+876,Discuss Position,Toys,480.91,Out of Stock,Exchange only,We offer free shipping on orders over $50.
+877,Also Keep,Sports,426.32,In Stock,Exchange only,"For product-related queries, please check the product page or contact us via chat support."
+878,Step Know,Sports,442.3,In Stock,Exchange only,"To track your order, please visit the 'My Orders' section of your account."
+879,Must Painting,Sports,648.9,In Stock,Exchange only,Please visit our Returns page for details on returning your product.
+880,World Most,Electronics,912.45,In Stock,No returns,Please check the FAQ section for common troubleshooting steps.
+881,State Property,Toys,444.19,Out of Stock,Exchange only,You can contact customer service at support@example.com for warranty inquiries.
+882,War Right,Sports,859.44,In Stock,No returns,The product manual is available on the product page under 'Downloads'.
+883,Yourself Even,Books,547.84,In Stock,30-day return,Please visit our Returns page for details on returning your product.
+884,Game Class,Books,803.66,In Stock,No returns,We offer free shipping on orders over $50.
+885,Fear Firm,Electronics,278.31,In Stock,30-day return,You can contact customer service at support@example.com for warranty inquiries.
+886,Child No,Toys,324.98,In Stock,Exchange only,Please check the FAQ section for common troubleshooting steps.
+887,Possible Green,Home Appliances,439.81,In Stock,Exchange only,"For product-related queries, please check the product page or contact us via chat support."
+888,Why Own,Toys,902.75,Out of Stock,30-day return,"For product-related queries, please check the product page or contact us via chat support."
+889,Return Maintain,Toys,79.64,Out of Stock,No returns,"For a refund, please provide proof of purchase and contact support@example.com."
+890,Anything Relationship,Furniture,956.81,In Stock,30-day return,"For product-related queries, please check the product page or contact us via chat support."
+891,Current Party,Sports,957.02,Out of Stock,No returns,Please check the FAQ section for common troubleshooting steps.
+892,Somebody My,Sports,970.74,In Stock,No returns,We provide a 30-day return policy for most products. Check the product page for exceptions.
+893,Of Heart,Books,645.07,Out of Stock,30-day return,"For product-related queries, please check the product page or contact us via chat support."
+894,As Edge,Sports,597.44,In Stock,Exchange only,Please visit our Returns page for details on returning your product.
+895,Billion Doctor,Furniture,173.65,Out of Stock,No returns,We provide a 30-day return policy for most products. Check the product page for exceptions.
+896,Big Road,Beauty & Health,96.44,Out of Stock,No returns,We offer free shipping on orders over $50.
+897,Carry Admit,Sports,390.4,Out of Stock,Exchange only,"For product-related queries, please check the product page or contact us via chat support."
+898,Address More,Clothing,339.44,Out of Stock,Exchange only,The product manual is available on the product page under 'Downloads'.
+899,Toward Investment,Electronics,102.1,In Stock,No returns,"To track your order, please visit the 'My Orders' section of your account."
+900,Paper Mind,Electronics,200.73,Out of Stock,30-day return,The product manual is available on the product page under 'Downloads'.
+901,Body Then,Books,49.49,In Stock,No returns,"For a refund, please provide proof of purchase and contact support@example.com."
+902,Now Across,Toys,739.72,Out of Stock,No returns,We provide a 30-day return policy for most products. Check the product page for exceptions.
+903,Style Simply,Toys,836.25,In Stock,30-day return,We provide a 30-day return policy for most products. Check the product page for exceptions.
+904,Music Line,Toys,54.22,Out of Stock,No returns,"For a refund, please provide proof of purchase and contact support@example.com."
+905,Purpose Hit,Furniture,527.2,Out of Stock,30-day return,"To track your order, please visit the 'My Orders' section of your account."
+906,Each Whom,Clothing,765.03,Out of Stock,No returns,We provide a 30-day return policy for most products. Check the product page for exceptions.
+907,Lose Floor,Sports,829.47,Out of Stock,No returns,The product manual is available on the product page under 'Downloads'.
+908,These Provide,Books,841.61,Out of Stock,Exchange only,"To track your order, please visit the 'My Orders' section of your account."
+909,Better Too,Sports,165.05,In Stock,Exchange only,Please check the FAQ section for common troubleshooting steps.
+910,Finally Rise,Clothing,720.38,Out of Stock,No returns,Please check the FAQ section for common troubleshooting steps.
+911,Laugh Sing,Toys,574.2,Out of Stock,Exchange only,We provide a 30-day return policy for most products. Check the product page for exceptions.
+912,Measure Mind,Furniture,761.47,Out of Stock,30-day return,Please visit our Returns page for details on returning your product.
+913,Teacher Floor,Beauty & Health,250.04,Out of Stock,Exchange only,Please visit our Returns page for details on returning your product.
+914,Less Method,Clothing,527.62,Out of Stock,Exchange only,Please check the FAQ section for common troubleshooting steps.
+915,Increase Part,Clothing,640.45,Out of Stock,Exchange only,"For product-related queries, please check the product page or contact us via chat support."
+916,Difficult Stock,Books,76.78,Out of Stock,30-day return,"For product-related queries, please check the product page or contact us via chat support."
+917,Production These,Electronics,215.02,In Stock,Exchange only,"For a refund, please provide proof of purchase and contact support@example.com."
+918,Check What,Sports,196.03,Out of Stock,Exchange only,"For a refund, please provide proof of purchase and contact support@example.com."
+919,Somebody Role,Toys,260.89,Out of Stock,Exchange only,We provide a 30-day return policy for most products. Check the product page for exceptions.
+920,Score Memory,Beauty & Health,200.21,Out of Stock,Exchange only,"For a refund, please provide proof of purchase and contact support@example.com."
+921,Place Bag,Beauty & Health,923.69,Out of Stock,Exchange only,"To track your order, please visit the 'My Orders' section of your account."
+922,President Able,Home Appliances,59.12,In Stock,30-day return,The product manual is available on the product page under 'Downloads'.
+923,Natural Method,Books,262.53,Out of Stock,Exchange only,Please visit our Returns page for details on returning your product.
+924,Shoulder Measure,Home Appliances,763.36,In Stock,30-day return,You can contact customer service at support@example.com for warranty inquiries.
+925,Able Where,Books,742.17,In Stock,No returns,The product manual is available on the product page under 'Downloads'.
+926,Herself Medical,Furniture,878.79,In Stock,30-day return,We offer free shipping on orders over $50.
+927,Ten Kid,Books,96.81,In Stock,No returns,"For product-related queries, please check the product page or contact us via chat support."
+928,Answer Compare,Books,406.52,Out of Stock,No returns,We offer free shipping on orders over $50.
+929,Best Record,Home Appliances,817.55,In Stock,No returns,"For product-related queries, please check the product page or contact us via chat support."
+930,Value Road,Beauty & Health,790.86,Out of Stock,30-day return,"For product-related queries, please check the product page or contact us via chat support."
+931,South Key,Electronics,29.33,In Stock,Exchange only,We provide a 30-day return policy for most products. Check the product page for exceptions.
+932,Four Buy,Clothing,980.3,Out of Stock,No returns,Please visit our Returns page for details on returning your product.
+933,Term That,Furniture,844.35,In Stock,30-day return,We offer free shipping on orders over $50.
+934,Recognize Natural,Clothing,597.18,In Stock,Exchange only,You can contact customer service at support@example.com for warranty inquiries.
+935,Maintain Fly,Clothing,463.5,Out of Stock,No returns,"To track your order, please visit the 'My Orders' section of your account."
+936,Push The,Clothing,145.35,In Stock,No returns,We offer free shipping on orders over $50.
+937,Second Still,Electronics,531.31,Out of Stock,30-day return,Please check the FAQ section for common troubleshooting steps.
+938,Check Make,Books,157.01,Out of Stock,Exchange only,"For a refund, please provide proof of purchase and contact support@example.com."
+939,Management Training,Beauty & Health,545.26,In Stock,30-day return,"To track your order, please visit the 'My Orders' section of your account."
+940,Send Result,Furniture,797.95,In Stock,No returns,You can contact customer service at support@example.com for warranty inquiries.
+941,White Offer,Beauty & Health,77.3,Out of Stock,Exchange only,We offer free shipping on orders over $50.
+942,Above Power,Toys,191.91,Out of Stock,Exchange only,The product manual is available on the product page under 'Downloads'.
+943,Society Travel,Sports,451.89,Out of Stock,Exchange only,We offer free shipping on orders over $50.
+944,Cause Rule,Furniture,542.08,In Stock,Exchange only,"To track your order, please visit the 'My Orders' section of your account."
+945,Young Member,Electronics,550.41,Out of Stock,30-day return,"For a refund, please provide proof of purchase and contact support@example.com."
+946,Purpose Have,Furniture,432,Out of Stock,No returns,Please visit our Returns page for details on returning your product.
+947,Necessary Source,Electronics,99.03,Out of Stock,No returns,Please visit our Returns page for details on returning your product.
+948,Drug Front,Books,33.12,In Stock,30-day return,Please visit our Returns page for details on returning your product.
+949,Small Our,Sports,934.53,In Stock,No returns,We provide a 30-day return policy for most products. Check the product page for exceptions.
+950,Attack Bag,Home Appliances,143.07,Out of Stock,No returns,"For a refund, please provide proof of purchase and contact support@example.com."
+951,Sister Strong,Toys,579.83,Out of Stock,Exchange only,Please check the FAQ section for common troubleshooting steps.
+952,All Central,Sports,925.58,In Stock,30-day return,You can contact customer service at support@example.com for warranty inquiries.
+953,Budget Position,Electronics,846.52,Out of Stock,Exchange only,"To track your order, please visit the 'My Orders' section of your account."
+954,Off Reach,Beauty & Health,207.06,In Stock,No returns,Please visit our Returns page for details on returning your product.
+955,Guess Green,Toys,471.09,Out of Stock,30-day return,We provide a 30-day return policy for most products. Check the product page for exceptions.
+956,Effect Cost,Electronics,283.41,Out of Stock,Exchange only,We provide a 30-day return policy for most products. Check the product page for exceptions.
+957,Region Budget,Sports,986.21,In Stock,30-day return,Please check the FAQ section for common troubleshooting steps.
+958,Fund Situation,Beauty & Health,90.41,In Stock,30-day return,We provide a 30-day return policy for most products. Check the product page for exceptions.
+959,Throw Ability,Toys,242.55,Out of Stock,30-day return,You can contact customer service at support@example.com for warranty inquiries.
+960,None Wall,Electronics,162.05,In Stock,Exchange only,We offer free shipping on orders over $50.
+961,Simply Head,Beauty & Health,569.75,Out of Stock,Exchange only,"To track your order, please visit the 'My Orders' section of your account."
+962,Parent Determine,Toys,352.21,In Stock,30-day return,Please check the FAQ section for common troubleshooting steps.
+963,According Minute,Home Appliances,670.24,Out of Stock,Exchange only,"To track your order, please visit the 'My Orders' section of your account."
+964,By Safe,Books,529.16,Out of Stock,Exchange only,"For product-related queries, please check the product page or contact us via chat support."
+965,Way Happen,Clothing,175.83,Out of Stock,30-day return,Please visit our Returns page for details on returning your product.
+966,Help Money,Toys,942.28,In Stock,Exchange only,"To track your order, please visit the 'My Orders' section of your account."
+967,Nice Drug,Sports,562.32,In Stock,30-day return,"To track your order, please visit the 'My Orders' section of your account."
+968,Mind Often,Clothing,458.36,Out of Stock,No returns,You can contact customer service at support@example.com for warranty inquiries.
+969,Our Someone,Furniture,477.72,Out of Stock,No returns,You can contact customer service at support@example.com for warranty inquiries.
+970,Quality Staff,Books,915.97,Out of Stock,30-day return,We provide a 30-day return policy for most products. Check the product page for exceptions.
+971,Court Exactly,Home Appliances,475.82,Out of Stock,30-day return,We provide a 30-day return policy for most products. Check the product page for exceptions.
+972,Open Mind,Home Appliances,193.46,Out of Stock,No returns,We provide a 30-day return policy for most products. Check the product page for exceptions.
+973,Factor Week,Home Appliances,778.78,Out of Stock,No returns,"To track your order, please visit the 'My Orders' section of your account."
+974,Better In,Beauty & Health,696.08,In Stock,Exchange only,We provide a 30-day return policy for most products. Check the product page for exceptions.
+975,Summer Community,Furniture,774.3,Out of Stock,No returns,We provide a 30-day return policy for most products. Check the product page for exceptions.
+976,Beyond Fire,Toys,639.39,In Stock,Exchange only,"To track your order, please visit the 'My Orders' section of your account."
+977,Month Human,Books,887.05,In Stock,No returns,Please check the FAQ section for common troubleshooting steps.
+978,Education Time,Toys,40.77,Out of Stock,Exchange only,We offer free shipping on orders over $50.
+979,Even Social,Clothing,610.34,Out of Stock,30-day return,"For product-related queries, please check the product page or contact us via chat support."
+980,Decision Conference,Clothing,556.31,In Stock,Exchange only,"For a refund, please provide proof of purchase and contact support@example.com."
+981,Economic Such,Beauty & Health,561.09,Out of Stock,Exchange only,Please check the FAQ section for common troubleshooting steps.
+982,Ability Box,Books,265.98,Out of Stock,Exchange only,Please check the FAQ section for common troubleshooting steps.
+983,Sister Another,Home Appliances,985.67,Out of Stock,No returns,We offer free shipping on orders over $50.
+984,Film Though,Home Appliances,692.03,Out of Stock,No returns,You can contact customer service at support@example.com for warranty inquiries.
+985,Thought Much,Home Appliances,850.8,Out of Stock,30-day return,We offer free shipping on orders over $50.
+986,People College,Sports,133.43,In Stock,No returns,The product manual is available on the product page under 'Downloads'.
+987,Care Able,Clothing,818.55,In Stock,No returns,"For product-related queries, please check the product page or contact us via chat support."
+988,Than But,Toys,333.48,In Stock,30-day return,Please check the FAQ section for common troubleshooting steps.
+989,Sport Toward,Electronics,198.88,Out of Stock,30-day return,You can contact customer service at support@example.com for warranty inquiries.
+990,Animal Member,Books,626.08,In Stock,Exchange only,We offer free shipping on orders over $50.
+991,Throw Test,Sports,476.5,Out of Stock,Exchange only,You can contact customer service at support@example.com for warranty inquiries.
+992,Good Read,Electronics,162.61,Out of Stock,Exchange only,We offer free shipping on orders over $50.
+993,Series Option,Books,367.48,In Stock,Exchange only,"For a refund, please provide proof of purchase and contact support@example.com."
+994,View Black,Furniture,923.66,In Stock,No returns,We offer free shipping on orders over $50.
+995,Employee Executive,Electronics,684.36,In Stock,No returns,"For a refund, please provide proof of purchase and contact support@example.com."
+996,Reflect Make,Beauty & Health,917.6,Out of Stock,Exchange only,We offer free shipping on orders over $50.
+997,Hit Continue,Beauty & Health,247.46,In Stock,Exchange only,"To track your order, please visit the 'My Orders' section of your account."
+998,Last Military,Books,287.57,Out of Stock,Exchange only,"For product-related queries, please check the product page or contact us via chat support."
+999,American Also,Sports,484.42,In Stock,30-day return,"To track your order, please visit the 'My Orders' section of your account."
+1000,Industry Leg,Clothing,738.44,In Stock,No returns,"For product-related queries, please check the product page or contact us via chat support."
+1001,Put Wrong,Beauty & Health,29.92,Out of Stock,30-day return,"To track your order, please visit the 'My Orders' section of your account."
+1002,Size Company,Toys,676.89,Out of Stock,No returns,Please check the FAQ section for common troubleshooting steps.
+1003,Television Religious,Beauty & Health,688.85,In Stock,Exchange only,You can contact customer service at support@example.com for warranty inquiries.
+1004,Little Crime,Sports,743.64,In Stock,Exchange only,We provide a 30-day return policy for most products. Check the product page for exceptions.
+1005,Safe Table,Home Appliances,910.71,In Stock,Exchange only,Please check the FAQ section for common troubleshooting steps.
+1006,Popular Letter,Electronics,154.31,In Stock,30-day return,The product manual is available on the product page under 'Downloads'.
+1007,Station Administration,Home Appliances,679.6,Out of Stock,Exchange only,You can contact customer service at support@example.com for warranty inquiries.
+1008,Meet Speak,Books,276.48,In Stock,30-day return,"To track your order, please visit the 'My Orders' section of your account."
+1009,Statement Everything,Sports,688.26,In Stock,No returns,We provide a 30-day return policy for most products. Check the product page for exceptions.
+1010,Step No,Sports,311.32,In Stock,Exchange only,The product manual is available on the product page under 'Downloads'.
+1011,General Test,Beauty & Health,972.14,In Stock,No returns,"For a refund, please provide proof of purchase and contact support@example.com."
+1012,Put Arm,Sports,300.04,Out of Stock,No returns,"For a refund, please provide proof of purchase and contact support@example.com."
+1013,Sell Its,Furniture,319.57,In Stock,Exchange only,The product manual is available on the product page under 'Downloads'.
+1014,Black Mission,Toys,998.48,In Stock,30-day return,"For a refund, please provide proof of purchase and contact support@example.com."
+1015,Nation Walk,Home Appliances,59.48,Out of Stock,30-day return,"To track your order, please visit the 'My Orders' section of your account."
+1016,Class Pull,Electronics,414.73,In Stock,Exchange only,We offer free shipping on orders over $50.
+1017,Traditional Rule,Electronics,421.68,In Stock,30-day return,"For a refund, please provide proof of purchase and contact support@example.com."
+1018,Catch Cut,Sports,416.18,In Stock,Exchange only,Please check the FAQ section for common troubleshooting steps.
+1019,Collection Service,Clothing,75.08,In Stock,30-day return,Please visit our Returns page for details on returning your product.
+1020,Continue At,Books,538.42,Out of Stock,Exchange only,We offer free shipping on orders over $50.
+1021,Listen Drop,Sports,432.35,In Stock,No returns,We provide a 30-day return policy for most products. Check the product page for exceptions.
+1022,Discussion Interesting,Beauty & Health,861.06,Out of Stock,Exchange only,"For a refund, please provide proof of purchase and contact support@example.com."
+1023,Case Tv,Beauty & Health,339.48,Out of Stock,No returns,Please check the FAQ section for common troubleshooting steps.
+1024,Too Drop,Electronics,321.43,Out of Stock,No returns,The product manual is available on the product page under 'Downloads'.
+1025,Government These,Electronics,536.17,In Stock,Exchange only,The product manual is available on the product page under 'Downloads'.
+1026,Back Paper,Clothing,847.02,In Stock,30-day return,We offer free shipping on orders over $50.
+1027,Measure Could,Toys,778.01,Out of Stock,No returns,"For product-related queries, please check the product page or contact us via chat support."
+1028,Store Often,Furniture,263.8,In Stock,No returns,Please visit our Returns page for details on returning your product.
+1029,Even Send,Books,606.58,In Stock,Exchange only,You can contact customer service at support@example.com for warranty inquiries.
+1030,Put Common,Home Appliances,862.13,Out of Stock,30-day return,"For product-related queries, please check the product page or contact us via chat support."
+1031,Coach I,Electronics,224.91,In Stock,30-day return,"For a refund, please provide proof of purchase and contact support@example.com."
+1032,Body He,Toys,376.31,In Stock,No returns,"For a refund, please provide proof of purchase and contact support@example.com."
+1033,Important Mother,Electronics,612.39,In Stock,No returns,Please visit our Returns page for details on returning your product.
+1034,Magazine Even,Books,661.51,Out of Stock,30-day return,The product manual is available on the product page under 'Downloads'.
+1035,Try Single,Electronics,19.02,Out of Stock,30-day return,You can contact customer service at support@example.com for warranty inquiries.
+1036,Nothing Protect,Home Appliances,770.57,In Stock,Exchange only,You can contact customer service at support@example.com for warranty inquiries.
+1037,Collection Water,Furniture,91.98,In Stock,No returns,"To track your order, please visit the 'My Orders' section of your account."
+1038,Position Without,Sports,509.72,In Stock,No returns,"For a refund, please provide proof of purchase and contact support@example.com."
+1039,Beyond Half,Home Appliances,152.73,In Stock,Exchange only,We offer free shipping on orders over $50.
+1040,Bad Challenge,Beauty & Health,645.22,Out of Stock,30-day return,The product manual is available on the product page under 'Downloads'.
+1041,True Prove,Clothing,211.31,Out of Stock,30-day return,The product manual is available on the product page under 'Downloads'.
+1042,Better Find,Home Appliances,719.12,Out of Stock,No returns,Please check the FAQ section for common troubleshooting steps.
+1043,Until Together,Sports,121.13,In Stock,Exchange only,We provide a 30-day return policy for most products. Check the product page for exceptions.
+1044,To Congress,Furniture,858.77,In Stock,No returns,"For product-related queries, please check the product page or contact us via chat support."
+1045,Yes Sit,Clothing,250.9,In Stock,30-day return,The product manual is available on the product page under 'Downloads'.
+1046,Yeah Nor,Home Appliances,133.75,Out of Stock,No returns,The product manual is available on the product page under 'Downloads'.
+1047,Operation Any,Sports,94.97,Out of Stock,No returns,"For product-related queries, please check the product page or contact us via chat support."
+1048,Big Join,Books,416.22,Out of Stock,30-day return,The product manual is available on the product page under 'Downloads'.
+1049,Raise Husband,Sports,733.73,Out of Stock,No returns,The product manual is available on the product page under 'Downloads'.
+1050,Foreign Whole,Beauty & Health,501.4,Out of Stock,Exchange only,The product manual is available on the product page under 'Downloads'.
+1051,Adult Billion,Toys,668.56,Out of Stock,30-day return,We offer free shipping on orders over $50.
+1052,Single Agree,Electronics,512.39,Out of Stock,30-day return,We offer free shipping on orders over $50.
+1053,Our Analysis,Beauty & Health,733.01,In Stock,No returns,The product manual is available on the product page under 'Downloads'.
+1054,Like Somebody,Toys,325.45,Out of Stock,Exchange only,The product manual is available on the product page under 'Downloads'.
+1055,Sound Dream,Furniture,975.84,In Stock,30-day return,"For product-related queries, please check the product page or contact us via chat support."
+1056,Especially Court,Books,113.25,Out of Stock,No returns,"To track your order, please visit the 'My Orders' section of your account."
+1057,College Live,Home Appliances,41.61,Out of Stock,30-day return,We provide a 30-day return policy for most products. Check the product page for exceptions.
+1058,Ground Choice,Home Appliances,319.11,Out of Stock,Exchange only,We offer free shipping on orders over $50.
+1059,Always Wish,Clothing,940.28,Out of Stock,30-day return,"For product-related queries, please check the product page or contact us via chat support."
+1060,Surface Along,Electronics,224.12,Out of Stock,No returns,"For a refund, please provide proof of purchase and contact support@example.com."
+1061,Study Candidate,Electronics,106.43,In Stock,30-day return,The product manual is available on the product page under 'Downloads'.
+1062,Name Often,Clothing,316.31,In Stock,30-day return,Please check the FAQ section for common troubleshooting steps.
+1063,Discuss Either,Sports,88.09,Out of Stock,No returns,"For product-related queries, please check the product page or contact us via chat support."
+1064,Item However,Books,325.55,In Stock,No returns,Please visit our Returns page for details on returning your product.
+1065,Consider Opportunity,Sports,888.87,In Stock,30-day return,We provide a 30-day return policy for most products. Check the product page for exceptions.
+1066,Rate Similar,Toys,133.49,In Stock,No returns,"For product-related queries, please check the product page or contact us via chat support."
+1067,Office Standard,Electronics,617.58,In Stock,Exchange only,"To track your order, please visit the 'My Orders' section of your account."
+1068,She So,Clothing,811.93,In Stock,No returns,Please visit our Returns page for details on returning your product.
+1069,Method Natural,Clothing,998.34,In Stock,30-day return,You can contact customer service at support@example.com for warranty inquiries.
+1070,Analysis Prepare,Sports,538.6,In Stock,30-day return,We offer free shipping on orders over $50.
+1071,Crime Our,Books,70.49,Out of Stock,No returns,Please check the FAQ section for common troubleshooting steps.
+1072,Skill Break,Beauty & Health,298.44,Out of Stock,No returns,Please visit our Returns page for details on returning your product.
+1073,Back Oil,Electronics,381.63,In Stock,No returns,We offer free shipping on orders over $50.
+1074,Suffer Subject,Home Appliances,702.39,In Stock,30-day return,You can contact customer service at support@example.com for warranty inquiries.
+1075,Whether It,Furniture,385.29,Out of Stock,Exchange only,We provide a 30-day return policy for most products. Check the product page for exceptions.
+1076,Strong Traditional,Books,606.04,In Stock,Exchange only,The product manual is available on the product page under 'Downloads'.
+1077,Continue Product,Clothing,784.45,In Stock,No returns,We provide a 30-day return policy for most products. Check the product page for exceptions.
+1078,Floor Then,Beauty & Health,491.64,Out of Stock,30-day return,"To track your order, please visit the 'My Orders' section of your account."
+1079,Full Surface,Clothing,654.74,Out of Stock,Exchange only,We provide a 30-day return policy for most products. Check the product page for exceptions.
+1080,Hot Ball,Furniture,111.78,In Stock,No returns,"For product-related queries, please check the product page or contact us via chat support."
+1081,Record Add,Beauty & Health,489.94,In Stock,Exchange only,"To track your order, please visit the 'My Orders' section of your account."
+1082,Scene Peace,Furniture,997.88,In Stock,No returns,"For a refund, please provide proof of purchase and contact support@example.com."
+1083,Shake Public,Toys,587.61,In Stock,30-day return,"For a refund, please provide proof of purchase and contact support@example.com."
+1084,Likely Degree,Electronics,870.83,Out of Stock,No returns,"To track your order, please visit the 'My Orders' section of your account."
+1085,Understand Imagine,Books,983.17,Out of Stock,30-day return,"For product-related queries, please check the product page or contact us via chat support."
+1086,Radio Source,Beauty & Health,982.98,In Stock,No returns,The product manual is available on the product page under 'Downloads'.
+1087,Bag Despite,Toys,75.22,In Stock,No returns,We offer free shipping on orders over $50.
+1088,Strong Training,Furniture,283.81,Out of Stock,Exchange only,"For product-related queries, please check the product page or contact us via chat support."
+1089,Food Air,Sports,268.2,In Stock,Exchange only,Please check the FAQ section for common troubleshooting steps.
+1090,Purpose Today,Sports,115.95,Out of Stock,No returns,"For a refund, please provide proof of purchase and contact support@example.com."
+1091,Player House,Furniture,328.3,Out of Stock,Exchange only,You can contact customer service at support@example.com for warranty inquiries.
+1092,Again Save,Books,799.91,Out of Stock,Exchange only,"To track your order, please visit the 'My Orders' section of your account."
+1093,Social Training,Books,606.31,Out of Stock,30-day return,You can contact customer service at support@example.com for warranty inquiries.
+1094,Central Few,Sports,536.62,In Stock,30-day return,We offer free shipping on orders over $50.
+1095,Around Town,Books,686.62,Out of Stock,Exchange only,Please check the FAQ section for common troubleshooting steps.
+1096,Attention Thought,Books,486.43,In Stock,Exchange only,The product manual is available on the product page under 'Downloads'.
+1097,Forward Sound,Clothing,676.51,In Stock,Exchange only,We provide a 30-day return policy for most products. Check the product page for exceptions.
+1098,Gas Chance,Toys,64.84,In Stock,No returns,You can contact customer service at support@example.com for warranty inquiries.
+1099,Several Ahead,Electronics,556.9,Out of Stock,30-day return,We offer free shipping on orders over $50.
+1100,Blue Southern,Home Appliances,492.71,In Stock,Exchange only,"For a refund, please provide proof of purchase and contact support@example.com."
+1101,Effort Head,Beauty & Health,480.03,In Stock,No returns,We provide a 30-day return policy for most products. Check the product page for exceptions.
+1102,Explain Off,Furniture,700.4,In Stock,No returns,The product manual is available on the product page under 'Downloads'.
+1103,Action Group,Books,703.54,In Stock,30-day return,"For a refund, please provide proof of purchase and contact support@example.com."
+1104,Program Change,Electronics,648.58,In Stock,30-day return,"To track your order, please visit the 'My Orders' section of your account."
+1105,Operation Close,Furniture,381.77,In Stock,30-day return,We provide a 30-day return policy for most products. Check the product page for exceptions.
+1106,Oil During,Electronics,894.89,Out of Stock,30-day return,Please visit our Returns page for details on returning your product.
+1107,Drug Policy,Toys,522.88,Out of Stock,No returns,We provide a 30-day return policy for most products. Check the product page for exceptions.
+1108,Their Actually,Beauty & Health,801.98,Out of Stock,Exchange only,We offer free shipping on orders over $50.
+1109,Region Many,Sports,970.53,In Stock,30-day return,Please check the FAQ section for common troubleshooting steps.
+1110,Hot Hour,Clothing,792.68,In Stock,30-day return,Please visit our Returns page for details on returning your product.
+1111,On Unit,Home Appliances,765.18,In Stock,No returns,Please check the FAQ section for common troubleshooting steps.
+1112,Method Shake,Books,213.02,In Stock,30-day return,"To track your order, please visit the 'My Orders' section of your account."
+1113,Able Cell,Sports,343.72,In Stock,Exchange only,You can contact customer service at support@example.com for warranty inquiries.
+1114,Under Own,Beauty & Health,795.65,Out of Stock,30-day return,You can contact customer service at support@example.com for warranty inquiries.
+1115,Food Compare,Clothing,905.61,In Stock,No returns,We provide a 30-day return policy for most products. Check the product page for exceptions.
+1116,Catch Hold,Home Appliances,329.95,In Stock,Exchange only,Please visit our Returns page for details on returning your product.
+1117,Cup First,Home Appliances,54.3,In Stock,Exchange only,"To track your order, please visit the 'My Orders' section of your account."
+1118,Watch Care,Sports,737.2,In Stock,Exchange only,Please check the FAQ section for common troubleshooting steps.
+1119,Analysis Including,Home Appliances,393.53,Out of Stock,30-day return,Please check the FAQ section for common troubleshooting steps.
+1120,People Though,Electronics,201.31,In Stock,Exchange only,"For a refund, please provide proof of purchase and contact support@example.com."
+1121,Produce Its,Sports,197.83,In Stock,Exchange only,"For a refund, please provide proof of purchase and contact support@example.com."
+1122,Still Set,Clothing,708.15,In Stock,30-day return,We provide a 30-day return policy for most products. Check the product page for exceptions.
+1123,Night Cause,Electronics,354.22,In Stock,Exchange only,The product manual is available on the product page under 'Downloads'.
+1124,Against Little,Beauty & Health,316.06,Out of Stock,30-day return,We offer free shipping on orders over $50.
+1125,Talk Little,Toys,336.93,Out of Stock,Exchange only,You can contact customer service at support@example.com for warranty inquiries.
+1126,His Star,Furniture,72.05,In Stock,No returns,Please visit our Returns page for details on returning your product.
+1127,Act Record,Beauty & Health,764.97,Out of Stock,30-day return,Please visit our Returns page for details on returning your product.
+1128,Word Manager,Books,87.25,In Stock,30-day return,We offer free shipping on orders over $50.
+1129,Edge Series,Home Appliances,175.13,In Stock,30-day return,Please check the FAQ section for common troubleshooting steps.
+1130,Staff Decade,Beauty & Health,85.75,Out of Stock,30-day return,We offer free shipping on orders over $50.
+1131,End Defense,Clothing,216.56,In Stock,30-day return,Please visit our Returns page for details on returning your product.
+1132,Draw Price,Beauty & Health,881.55,In Stock,Exchange only,"For a refund, please provide proof of purchase and contact support@example.com."
+1133,Night Say,Books,176.7,In Stock,Exchange only,We provide a 30-day return policy for most products. Check the product page for exceptions.
+1134,Bar Happen,Electronics,55.16,Out of Stock,No returns,"For product-related queries, please check the product page or contact us via chat support."
+1135,Act Body,Furniture,266.92,In Stock,30-day return,"To track your order, please visit the 'My Orders' section of your account."
+1136,Bit Spend,Beauty & Health,260.27,In Stock,30-day return,You can contact customer service at support@example.com for warranty inquiries.
+1137,Message Listen,Books,513.15,Out of Stock,Exchange only,We provide a 30-day return policy for most products. Check the product page for exceptions.
+1138,Start Music,Books,854.11,In Stock,No returns,You can contact customer service at support@example.com for warranty inquiries.
+1139,Where Conference,Toys,81.82,In Stock,30-day return,"For product-related queries, please check the product page or contact us via chat support."
+1140,Lot Difficult,Books,745.24,Out of Stock,30-day return,Please visit our Returns page for details on returning your product.
+1141,Research Name,Clothing,749.8,In Stock,No returns,"To track your order, please visit the 'My Orders' section of your account."
+1142,Establish Person,Books,148.09,Out of Stock,Exchange only,Please check the FAQ section for common troubleshooting steps.
+1143,Key Voice,Toys,209.34,In Stock,No returns,"For product-related queries, please check the product page or contact us via chat support."
+1144,Them Realize,Toys,722.61,In Stock,30-day return,We offer free shipping on orders over $50.
+1145,Represent War,Furniture,668.79,In Stock,No returns,The product manual is available on the product page under 'Downloads'.
+1146,Want Skill,Toys,534.5,Out of Stock,Exchange only,We offer free shipping on orders over $50.
